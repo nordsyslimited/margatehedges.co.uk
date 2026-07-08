@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://canterburyhedges.co.uk/sitemap.xml
+Sitemap: https://margatehedges.co.uk/sitemap.xml
