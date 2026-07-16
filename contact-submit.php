@@ -122,7 +122,7 @@ $plain = "New hedge enquiry, margatehedges.co.uk\n\n"
 // The Resend account is in sandbox mode — emails can only go to the
 // account owner (bluebucketuk@gmail.com) until margatehedges.co.uk
 // is verified as a sending domain. Once verified, switch `from` to
-// "Margate & Hedges <hello@margatehedges.co.uk>" and `to` to
+// "Margate Hedges & Tree Services <hello@margatehedges.co.uk>" and `to` to
 // "hello@margatehedges.co.uk" (which will forward to
 // nordsyslimited@gmail.com via the cPanel forwarder).
 $payload = [
