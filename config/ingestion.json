@@ -1,0 +1,64 @@
+{
+  "site": {
+    "name": "Margate Hedges & Tree Services",
+    "url": "https://margatehedges.co.uk",
+    "repo": "nordsyslimited/margatehedges.co.uk"
+  },
+  "ingestion": {
+    "description": "Nightly: finds UK hedge-care sources (video or written) and creates a story-led (case-study opening) How-To article for each, matching Margate/Thanet species and conditions. Morning: audits the full site.",
+    "structuralAngle": "story-led / case-study — every article opens with a short real-feeling job scenario before the practical detail. See TEMPLATES/how-to.md. This is the site's ring-wide anti-fingerprinting assignment; do not drift to a generic hero-first shape.",
+    "region": "UK",
+    "minLikes": 100,
+    "minViews": null,
+    "articlesPerRun": 3,
+    "categories": [
+      "Hedge trimming technique",
+      "Hedge shaping and topiary",
+      "Seasonal hedge care and nesting-season timing",
+      "Hedge health and species care",
+      "Tool use and safety",
+      "Hedge law and neighbour disputes",
+      "Conservation-area and TDC planning rules",
+      "Coastal/salt-tolerant species and staged reduction",
+      "Holiday-let and managed-property hedge maintenance"
+    ],
+    "howtoHubEyebrowLabels": [
+      "Rules & paperwork",
+      "Species & planting",
+      "Wildlife & the law",
+      "Owners & managers",
+      "Reductions & renovation",
+      "Seasonality"
+    ],
+    "contentKindSingular": "how-to article",
+    "contentKindPlural": "how-to articles",
+    "contentGlob": "how-to/*.html",
+    "contentGlobExclude": ["how-to/index.html"],
+    "hubFile": "how-to/index.html",
+    "hubGrowthMechanism": "static .grid.grid-2 of .card elements, no data-howto-cat filter system (unlike sandwichhedges.co.uk) — add a new card in reading order",
+    "jsonLdPattern": "flat Article object (author: Person 'Richard Lim', publisher: Organization) — NOT @graph, NOT HowTo. See TEMPLATES/how-to.md section 2.",
+    "relatedGuidesConvention": "none — no JET-RELATED-GUIDES comment blocks on this site; use plain in-text <a> cross-links instead"
+  },
+  "schedule": {
+    "nightly": {
+      "name": "Nightly content finder",
+      "cronUtc": "0 3 * * *",
+      "daysBetweenRuns": 1,
+      "description": "Find up to 3 UK hedge-care sources, generate story-led articles, commit + push."
+    },
+    "morning": {
+      "name": "Morning site audit",
+      "cronUtc": "0 8 * * *",
+      "daysBetweenRuns": 1,
+      "description": "Audit every page: hub-grid integrity, broken links, dead videos, SEO, story-led compliance, relevance."
+    }
+  },
+  "notifications": {
+    "email": "hello@margatehedges.co.uk",
+    "channel": "TBD — no email-report workflow wired yet, see INGESTION.md"
+  },
+  "triggers": {
+    "nightly": "TBD — created on claude.ai/code when the routine is set up",
+    "morning": "TBD — created on claude.ai/code when the routine is set up"
+  }
+}
