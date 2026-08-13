@@ -1,0 +1,33 @@
+{
+  "lastRun": "2026-08-13",
+  "runType": "nightly-content",
+  "articlesShipped": 1,
+  "slugsShipped": ["hedge-trimming-technique-margate"],
+  "topicsCovered": [
+    "Hedge trimming technique"
+  ],
+  "topicsRemaining": [
+    "Hedge health and species care",
+    "Tool use and safety"
+  ],
+  "sourceUsed": {
+    "type": "YouTube",
+    "channel": "The RHS - Royal Horticultural Society",
+    "videoTitle": "What is the best way to cut a hedge?",
+    "videoUrl": "https://www.youtube.com/watch?v=HaiwL5SVc28",
+    "publishedDate": "2025-09-04",
+    "egress": "blocked",
+    "authorityVerified": true,
+    "authorityMethod": "channel-heuristic"
+  },
+  "storyLedCompliant": true,
+  "wcaReferenced": true,
+  "thanetSpecificity": ["Northdown", "Cliftonville", "Northdown Road", "Manston Road HWRC", "Thanet Coast SSSI"],
+  "filesModified": [
+    "how-to/hedge-trimming-technique-margate.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "reports/2026-08-13-content.md",
+    "reports/status.json"
+  ]
+}
