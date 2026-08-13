@@ -29,5 +29,10 @@
     "sitemap.xml",
     "reports/2026-08-13-content.md",
     "reports/status.json"
-  ]
+  ],
+  "lastAuditAt": "2026-08-13T00:00:00Z",
+  "auditStatus": "issues",
+  "issueCount": 3,
+  "auditNote": "7 auto-fix categories applied (robots.txt bot list, sitemap lastmod, theme-color, og:type, og:title/description/url, em-dashes, leverage). 3 needs-review categories: 2 orphan service pages, 3 articles missing WCA 1981 callout, 8 of 9 articles using aggregate opener instead of specific incident.",
+  "auditReport": "reports/2026-08-13-audit.md"
 }
