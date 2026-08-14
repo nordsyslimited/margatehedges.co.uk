@@ -1,38 +1,39 @@
 {
-  "lastRun": "2026-08-13",
+  "lastRun": "2026-08-14",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugsShipped": ["hedge-trimming-technique-margate"],
+  "slugsShipped": ["box-blight-box-tree-moth-margate"],
   "topicsCovered": [
-    "Hedge trimming technique"
+    "Hedge health and species care"
   ],
   "topicsRemaining": [
-    "Hedge health and species care",
-    "Tool use and safety"
+    "Tool use and safety",
+    "Hedge shaping and topiary"
   ],
   "sourceUsed": {
     "type": "YouTube",
-    "channel": "The RHS - Royal Horticultural Society",
-    "videoTitle": "What is the best way to cut a hedge?",
-    "videoUrl": "https://www.youtube.com/watch?v=HaiwL5SVc28",
-    "publishedDate": "2025-09-04",
+    "channel": "David Domoney",
+    "videoTitle": "What is wrong with my Box Hedge?",
+    "videoUrl": "https://www.youtube.com/watch?v=49wGHoqzksQ",
+    "publishedDate": "2024-05-31",
     "egress": "blocked",
     "authorityVerified": true,
-    "authorityMethod": "channel-heuristic"
+    "authorityMethod": "channel-heuristic",
+    "authorityNote": "David Domoney is a Chartered Horticulturalist (C.Hort), ITV presenter (Love Your Garden, This Morning), confirmed via daviddomoney.com, Wikipedia, and multiple UK gardening publication references"
   },
   "storyLedCompliant": true,
   "wcaReferenced": true,
-  "thanetSpecificity": ["Northdown", "Cliftonville", "Northdown Road", "Manston Road HWRC", "Thanet Coast SSSI"],
+  "thanetSpecificity": ["Dalby Square", "Cliftonville", "Victorian terraces", "Thanet coast", "Kent"],
   "filesModified": [
-    "how-to/hedge-trimming-technique-margate.html",
+    "how-to/box-blight-box-tree-moth-margate.html",
     "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-08-13-content.md",
+    "reports/2026-08-14-content.md",
     "reports/status.json"
   ],
   "lastAuditAt": "2026-08-13T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "auditNote": "7 auto-fix categories applied (robots.txt bot list, sitemap lastmod, theme-color, og:type, og:title/description/url, em-dashes, leverage). 3 needs-review categories: 2 orphan service pages, 3 articles missing WCA 1981 callout, 8 of 9 articles using aggregate opener instead of specific incident.",
+  "auditNote": "Audit from 2026-08-13 still current. 3 needs-review categories outstanding: 2 orphan service pages, 3 articles missing WCA 1981 callout, 8 of 9 hand-authored articles using aggregate opener instead of specific incident.",
   "auditReport": "reports/2026-08-13-audit.md"
 }
