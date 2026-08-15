@@ -1,39 +1,40 @@
 {
-  "lastAuditAt": "2026-08-14T00:00:00Z",
+  "lastAuditAt": "2026-08-15T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 needs-review categories outstanding: 3 articles missing WCA 1981 callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 10 articles using aggregate opener instead of specific incident; 2 orphan redirect pages (hedge-planting, hedge-removal). No auto-fixes required today. Site clean on all sitewide checks.",
-  "auditReport": "reports/2026-08-14-audit.md",
-  "lastRun": "2026-08-14",
+  "note": "3 needs-review categories outstanding (carry-forward from 2026-08-13, unchanged): 3 articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 11 articles using aggregate opener instead of specific incident; 2 orphan noindex redirect pages (hedge-planting, hedge-removal). Today's audit: all auto-fix categories pass clean. Topiary article shipped 2026-08-15 fully compliant.",
+  "auditReport": "reports/2026-08-15-audit.md",
+  "lastRun": "2026-08-15",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugsShipped": ["box-blight-box-tree-moth-margate"],
+  "slugsShipped": ["hedge-topiary-shaping-margate"],
   "topicsCovered": [
-    "Hedge health and species care"
+    "Hedge health and species care",
+    "Hedge shaping and topiary"
   ],
   "topicsRemaining": [
-    "Tool use and safety",
-    "Hedge shaping and topiary"
+    "Tool use and safety"
   ],
   "sourceUsed": {
     "type": "YouTube",
-    "channel": "David Domoney",
-    "videoTitle": "What is wrong with my Box Hedge?",
-    "videoUrl": "https://www.youtube.com/watch?v=49wGHoqzksQ",
-    "publishedDate": "2024-05-31",
+    "channel": "The Royal Horticultural Society (RHS)",
+    "videoTitle": "The Art of Topiary — Tool maintenance, plant recommendations and clipping techniques",
+    "videoUrl": "https://www.youtube.com/watch?v=T8E5YVjgqOY",
+    "publishedDate": "2024-06",
     "egress": "blocked",
     "authorityVerified": true,
-    "authorityMethod": "channel-heuristic",
-    "authorityNote": "David Domoney is a Chartered Horticulturalist (C.Hort), ITV presenter (Love Your Garden, This Morning), confirmed via daviddomoney.com, Wikipedia, and multiple UK gardening publication references"
+    "authorityMethod": "web-search-cross-reference",
+    "authorityNote": "RHS is the UK's leading independent horticultural charity. Video confirmed via RHS Instagram cross-reference and multiple web search results."
   },
   "storyLedCompliant": true,
   "wcaReferenced": true,
-  "thanetSpecificity": ["Dalby Square", "Cliftonville", "Victorian terraces", "Thanet coast", "Kent"],
+  "thanetSpecificity": ["Palm Bay", "Dreamland", "Cliftonville", "Old Town", "Westbrook", "N/NE coastal wind exposure"],
   "filesModified": [
-    "how-to/box-blight-box-tree-moth-margate.html",
+    "how-to/hedge-topiary-shaping-margate.html",
     "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-08-14-content.md",
+    "reports/2026-08-15-content.md",
+    "reports/2026-08-15-audit.md",
     "reports/status.json"
   ]
 }
