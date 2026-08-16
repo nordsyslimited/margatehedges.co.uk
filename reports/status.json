@@ -2,39 +2,37 @@
   "lastAuditAt": "2026-08-15T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 needs-review categories outstanding (carry-forward from 2026-08-13, unchanged): 3 articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 11 articles using aggregate opener instead of specific incident; 2 orphan noindex redirect pages (hedge-planting, hedge-removal). Today's audit: all auto-fix categories pass clean. Topiary article shipped 2026-08-15 fully compliant.",
+  "note": "3 needs-review categories outstanding (carry-forward from 2026-08-13, unchanged): 3 articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 11 articles using aggregate opener instead of specific incident; 2 orphan noindex redirect pages (hedge-planting, hedge-removal). Today's content run (2026-08-16): privet-hedge-renovation-margate shipped, fully compliant.",
   "auditReport": "reports/2026-08-15-audit.md",
-  "lastRun": "2026-08-15",
+  "lastRun": "2026-08-16",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugsShipped": ["hedge-topiary-shaping-margate"],
+  "slugsShipped": ["privet-hedge-renovation-margate"],
   "topicsCovered": [
-    "Hedge health and species care",
-    "Hedge shaping and topiary"
+    "Hedge health and species care (privet)"
   ],
   "topicsRemaining": [
     "Tool use and safety"
   ],
   "sourceUsed": {
     "type": "YouTube",
-    "channel": "The Royal Horticultural Society (RHS)",
-    "videoTitle": "The Art of Topiary — Tool maintenance, plant recommendations and clipping techniques",
-    "videoUrl": "https://www.youtube.com/watch?v=T8E5YVjgqOY",
-    "publishedDate": "2024-06",
+    "channel": "National Trust",
+    "videoTitle": "How to renovate and prune hedges - expert tips from the National Trust school of gardening",
+    "videoUrl": "https://www.youtube.com/watch?v=eCuT_Cx_dao",
+    "publishedDate": "2022-02",
     "egress": "blocked",
     "authorityVerified": true,
     "authorityMethod": "web-search-cross-reference",
-    "authorityNote": "RHS is the UK's leading independent horticultural charity. Video confirmed via RHS Instagram cross-reference and multiple web search results."
+    "authorityNote": "National Trust is a major UK conservation charity managing 500+ properties and 1,000+ miles of hedge. Channel confirmed authoritative via multiple web search results and their School of Gardening book series."
   },
   "storyLedCompliant": true,
   "wcaReferenced": true,
-  "thanetSpecificity": ["Palm Bay", "Dreamland", "Cliftonville", "Old Town", "Westbrook", "N/NE coastal wind exposure"],
+  "thanetSpecificity": ["Garlinge", "Cliftonville", "Palm Bay", "Thanet Coast (salt exposure)", "Manston Road HWRC", "Victorian terraces"],
   "filesModified": [
-    "how-to/hedge-topiary-shaping-margate.html",
+    "how-to/privet-hedge-renovation-margate.html",
     "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-08-15-content.md",
-    "reports/2026-08-15-audit.md",
+    "reports/2026-08-16-content.md",
     "reports/status.json"
   ]
 }
