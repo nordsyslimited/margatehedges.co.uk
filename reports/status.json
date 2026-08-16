@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-08-15T00:00:00Z",
+  "lastAuditAt": "2026-08-16T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 needs-review categories outstanding (carry-forward from 2026-08-13, unchanged): 3 articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 11 articles using aggregate opener instead of specific incident; 2 orphan noindex redirect pages (hedge-planting, hedge-removal). Today's content run (2026-08-16): privet-hedge-renovation-margate shipped, fully compliant.",
-  "auditReport": "reports/2026-08-15-audit.md",
+  "note": "3 needs-review categories outstanding (carry-forward from 2026-08-13, unchanged): 3 articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 12 articles using aggregate opener instead of specific incident; 2 orphan noindex redirect pages (hedge-planting, hedge-removal). Minor P2 note: privet-hedge-renovation-margate credits National Trust YouTube source by name but omits hyperlink to video URL.",
+  "auditReport": "reports/2026-08-16-audit.md",
   "lastRun": "2026-08-16",
   "runType": "nightly-content",
   "articlesShipped": 1,
@@ -33,6 +33,7 @@
     "how-to/index.html",
     "sitemap.xml",
     "reports/2026-08-16-content.md",
+    "reports/2026-08-16-audit.md",
     "reports/status.json"
   ]
 }
