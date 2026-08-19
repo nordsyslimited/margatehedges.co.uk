@@ -4,36 +4,49 @@
   "issueCount": 3,
   "note": "3 needs-review categories outstanding (carry-forward from 2026-08-13, unchanged): 3 articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 12 articles using aggregate opener instead of specific incident; 2 orphan noindex redirect pages (hedge-planting, hedge-removal). Minor P2 note: privet-hedge-renovation-margate credits National Trust YouTube source by name but omits hyperlink to video URL.",
   "auditReport": "reports/2026-08-16-audit.md",
-  "lastRun": "2026-08-16",
+  "lastRun": "2026-08-19",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugsShipped": ["privet-hedge-renovation-margate"],
+  "slugsShipped": ["hedge-cutting-tool-safety-margate"],
   "topicsCovered": [
-    "Hedge health and species care (privet)"
-  ],
-  "topicsRemaining": [
     "Tool use and safety"
   ],
+  "topicsRemaining": [],
+  "allIngestioNategoriesCovered": true,
   "sourceUsed": {
-    "type": "YouTube",
-    "channel": "National Trust",
-    "videoTitle": "How to renovate and prune hedges - expert tips from the National Trust school of gardening",
-    "videoUrl": "https://www.youtube.com/watch?v=eCuT_Cx_dao",
-    "publishedDate": "2022-02",
-    "egress": "blocked",
-    "authorityVerified": true,
-    "authorityMethod": "web-search-cross-reference",
-    "authorityNote": "National Trust is a major UK conservation charity managing 500+ properties and 1,000+ miles of hedge. Channel confirmed authoritative via multiple web search results and their School of Gardening book series."
+    "type": "YouTube (two sources)",
+    "sources": [
+      {
+        "channel": "STIHL GB",
+        "videoTitle": "PPE for Using Hedge Trimmers | Hedge Trimmer Safety | STIHL GB",
+        "videoUrl": "https://www.youtube.com/watch?v=AjcK-mMM0pU",
+        "publishedDate": "2021-03",
+        "egress": "blocked",
+        "authorityVerified": true,
+        "authorityMethod": "web-search-cross-reference",
+        "authorityNote": "STIHL GB is the official UK subsidiary of STIHL AG, globally recognised outdoor power equipment manufacturer."
+      },
+      {
+        "channel": "Speedy Services (Speedy Hire plc)",
+        "videoTitle": "How to Use a Hedge Trimmer Correctly and Safely",
+        "videoUrl": "https://www.youtube.com/watch?v=U0Xo9PvYJ2s",
+        "publishedDate": "2022-05",
+        "egress": "blocked",
+        "authorityVerified": true,
+        "authorityMethod": "web-search-cross-reference",
+        "authorityNote": "Speedy Hire plc is one of the UK's largest tool hire companies, LSE-listed, UK-specific content."
+      }
+    ]
   },
   "storyLedCompliant": true,
   "wcaReferenced": true,
-  "thanetSpecificity": ["Garlinge", "Cliftonville", "Palm Bay", "Thanet Coast (salt exposure)", "Manston Road HWRC", "Victorian terraces"],
+  "thanetSpecificity": ["Harold Road Cliftonville", "Northdown Road", "Westbrook", "Walpole Bay", "Palm Bay", "Thanet Coast (salt exposure on blades)", "UK Power Networks (Kent DNO)"],
   "filesModified": [
-    "how-to/privet-hedge-renovation-margate.html",
+    "how-to/hedge-cutting-tool-safety-margate.html",
     "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-08-16-content.md",
-    "reports/2026-08-16-audit.md",
+    "reports/2026-08-19-content.md",
     "reports/status.json"
-  ]
+  ],
+  "nextRunNotes": "All ingestion.json categories now covered. Future runs: new hedge planting/establishment (RHS YouTube Jan 2025 earmarked), leylandii-specific care, root barriers, yew hedge guide. Inbound cross-link from hedge-trimming-technique to new tool-safety article noted for morning audit."
 }
