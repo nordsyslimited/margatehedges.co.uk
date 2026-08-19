@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-08-16T00:00:00Z",
+  "lastAuditAt": "2026-08-19T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 needs-review categories outstanding (carry-forward from 2026-08-13, unchanged): 3 articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 12 articles using aggregate opener instead of specific incident; 2 orphan noindex redirect pages (hedge-planting, hedge-removal). Minor P2 note: privet-hedge-renovation-margate credits National Trust YouTube source by name but omits hyperlink to video URL.",
-  "auditReport": "reports/2026-08-16-audit.md",
+  "note": "3 needs-review categories outstanding (carry-forward): 3 articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 13 articles using aggregate opener instead of specific incident; 2 orphan noindex redirect pages (hedge-planting, hedge-removal). Auto-fixed: 23 sitemap lastmod dates corrected from 2026-07-23 to 2026-08-13. P2 carry-forward: privet-hedge-renovation credits National Trust YouTube source by name but omits hyperlink.",
+  "auditReport": "reports/2026-08-19-audit.md",
   "lastRun": "2026-08-19",
   "runType": "nightly-content",
   "articlesShipped": 1,
@@ -12,7 +12,7 @@
     "Tool use and safety"
   ],
   "topicsRemaining": [],
-  "allIngestioNategoriesCovered": true,
+  "allIngestionCategoriesCovered": true,
   "sourceUsed": {
     "type": "YouTube (two sources)",
     "sources": [
@@ -42,11 +42,9 @@
   "wcaReferenced": true,
   "thanetSpecificity": ["Harold Road Cliftonville", "Northdown Road", "Westbrook", "Walpole Bay", "Palm Bay", "Thanet Coast (salt exposure on blades)", "UK Power Networks (Kent DNO)"],
   "filesModified": [
-    "how-to/hedge-cutting-tool-safety-margate.html",
-    "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-08-19-content.md",
+    "reports/2026-08-19-audit.md",
     "reports/status.json"
   ],
-  "nextRunNotes": "All ingestion.json categories now covered. Future runs: new hedge planting/establishment (RHS YouTube Jan 2025 earmarked), leylandii-specific care, root barriers, yew hedge guide. Inbound cross-link from hedge-trimming-technique to new tool-safety article noted for morning audit."
+  "nextRunNotes": "All ingestion.json categories now covered. Future runs: new hedge planting/establishment (RHS YouTube Jan 2025 earmarked), leylandii-specific care, root barriers, yew hedge guide. Inbound cross-link from hedge-trimming-technique to tool-safety article noted. Proxy blocks YouTube curl-check; video status cannot be verified in-session."
 }
