@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-08-19T00:00:00Z",
+  "lastAuditAt": "2026-08-20T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 needs-review categories outstanding (carry-forward): 3 articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 13 articles using aggregate opener instead of specific incident; 2 orphan noindex redirect pages (hedge-planting, hedge-removal). Auto-fixed: 23 sitemap lastmod dates corrected from 2026-07-23 to 2026-08-13. P2 carry-forward: privet-hedge-renovation credits National Trust YouTube source by name but omits hyperlink.",
-  "auditReport": "reports/2026-08-19-audit.md",
+  "note": "3 needs-review categories outstanding: (A) 3 articles missing explicit WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); (B) 8 of 14 articles using aggregate opener instead of specific incident; (C) 2 orphan noindex redirect stubs (hedge-planting, hedge-removal). Auto-fixed: theme-color added to hedge-trimming-technique-margate.html; banned filler 'leverage' replaced in same file.",
+  "auditReport": "reports/2026-08-20-audit.md",
   "lastRun": "2026-08-20",
   "runType": "nightly-content",
   "articlesShipped": 1,
@@ -42,10 +42,8 @@
   "wcaReferenced": true,
   "thanetSpecificity": ["Westgate-on-Sea", "Cliftonville", "Northdown", "Old Town", "Birchington", "Thanet chalk ridge", "CT8 corridor", "North Sea salt wind", "sandy loam CT8", "Thanet migrating thrushes"],
   "filesModified": [
-    "how-to/bare-root-native-hedge-planting-margate.html",
-    "how-to/index.html",
-    "sitemap.xml",
-    "reports/2026-08-20-content.md",
+    "how-to/hedge-trimming-technique-margate.html",
+    "reports/2026-08-20-audit.md",
     "reports/status.json"
   ],
   "nextRunNotes": "Suggested future topics: leylandii identification and management beyond staged reduction, root barriers and underground boundary growth, yew hedge care guide, beech hedge establishment and aftercare, ivy removal from existing hedges. Carry-forward audit issues remain (8 aggregate openers, 3 missing WCA refs, 2 orphan redirect pages) - out of scope for content run, flagged for morning audit."
