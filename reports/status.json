@@ -4,47 +4,49 @@
   "issueCount": 3,
   "note": "3 needs-review categories outstanding (carry-forward): 3 articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); 8 of 13 articles using aggregate opener instead of specific incident; 2 orphan noindex redirect pages (hedge-planting, hedge-removal). Auto-fixed: 23 sitemap lastmod dates corrected from 2026-07-23 to 2026-08-13. P2 carry-forward: privet-hedge-renovation credits National Trust YouTube source by name but omits hyperlink.",
   "auditReport": "reports/2026-08-19-audit.md",
-  "lastRun": "2026-08-19",
+  "lastRun": "2026-08-20",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugsShipped": ["hedge-cutting-tool-safety-margate"],
+  "slugsShipped": ["bare-root-native-hedge-planting-margate"],
   "topicsCovered": [
-    "Tool use and safety"
+    "Hedge health and species care (subcategory: bare-root planting establishment)"
   ],
-  "topicsRemaining": [],
   "allIngestionCategoriesCovered": true,
   "sourceUsed": {
     "type": "YouTube (two sources)",
     "sources": [
       {
-        "channel": "STIHL GB",
-        "videoTitle": "PPE for Using Hedge Trimmers | Hedge Trimmer Safety | STIHL GB",
-        "videoUrl": "https://www.youtube.com/watch?v=AjcK-mMM0pU",
-        "publishedDate": "2021-03",
+        "channel": "RHS - Royal Horticultural Society",
+        "videoTitle": "How to plant bare root hedges | Grow at Home | Royal Horticultural Society",
+        "videoUrl": "https://www.youtube.com/watch?v=qDJc9rqCAY4",
+        "publishedDate": "2021-01",
+        "presenter": "Alex Hankey, Trials Team Leader, RHS Garden Wisley",
         "egress": "blocked",
         "authorityVerified": true,
         "authorityMethod": "web-search-cross-reference",
-        "authorityNote": "STIHL GB is the official UK subsidiary of STIHL AG, globally recognised outdoor power equipment manufacturer."
+        "authorityNote": "RHS is the UK's leading gardening charity; Alex Hankey is a named horticultural professional at RHS Garden Wisley. Very high authority for bare-root planting technique."
       },
       {
-        "channel": "Speedy Services (Speedy Hire plc)",
-        "videoTitle": "How to Use a Hedge Trimmer Correctly and Safely",
-        "videoUrl": "https://www.youtube.com/watch?v=U0Xo9PvYJ2s",
-        "publishedDate": "2022-05",
+        "channel": "Ashridge Nurseries",
+        "videoTitle": "How to Plant a Bareroot Native Country Hedge: Ashridge Nurseries",
+        "videoUrl": "https://www.youtube.com/watch?v=wOLhjXRTTx4",
+        "publishedDate": "2025-01",
         "egress": "blocked",
         "authorityVerified": true,
         "authorityMethod": "web-search-cross-reference",
-        "authorityNote": "Speedy Hire plc is one of the UK's largest tool hire companies, LSE-listed, UK-specific content."
+        "authorityNote": "Ashridge Trees Ltd is a UK-based online tree and hedging nursery. Their Conservation Hedge mix is government grant-approved under Countryside Stewardship. High authority for native mix species selection and slit planting method."
       }
     ]
   },
   "storyLedCompliant": true,
   "wcaReferenced": true,
-  "thanetSpecificity": ["Harold Road Cliftonville", "Northdown Road", "Westbrook", "Walpole Bay", "Palm Bay", "Thanet Coast (salt exposure on blades)", "UK Power Networks (Kent DNO)"],
+  "thanetSpecificity": ["Westgate-on-Sea", "Cliftonville", "Northdown", "Old Town", "Birchington", "Thanet chalk ridge", "CT8 corridor", "North Sea salt wind", "sandy loam CT8", "Thanet migrating thrushes"],
   "filesModified": [
+    "how-to/bare-root-native-hedge-planting-margate.html",
+    "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-08-19-audit.md",
+    "reports/2026-08-20-content.md",
     "reports/status.json"
   ],
-  "nextRunNotes": "All ingestion.json categories now covered. Future runs: new hedge planting/establishment (RHS YouTube Jan 2025 earmarked), leylandii-specific care, root barriers, yew hedge guide. Inbound cross-link from hedge-trimming-technique to tool-safety article noted. Proxy blocks YouTube curl-check; video status cannot be verified in-session."
+  "nextRunNotes": "Suggested future topics: leylandii identification and management beyond staged reduction, root barriers and underground boundary growth, yew hedge care guide, beech hedge establishment and aftercare, ivy removal from existing hedges. Carry-forward audit issues remain (8 aggregate openers, 3 missing WCA refs, 2 orphan redirect pages) - out of scope for content run, flagged for morning audit."
 }
