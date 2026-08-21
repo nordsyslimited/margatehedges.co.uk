@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-08-20T07:00:00Z",
+  "lastAuditAt": "2026-08-21T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 needs-review categories outstanding: (A) 3 articles missing explicit WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); (B) 8 of 14 articles using aggregate opener instead of specific incident; (C) 2 orphan noindex redirect stubs (hedge-planting, hedge-removal). Note: formal-hedges-cliftonville had a cross-link added in the 21 Aug content run but its WCA 1981 absence was not fixed (out of scope for content run).",
-  "auditReport": "reports/2026-08-20-audit.md",
+  "note": "3 needs-review categories outstanding: (A) 3 articles missing explicit WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); (B) 8 of 15 articles using aggregate opener instead of specific incident; (C) 2 orphan noindex redirect stubs (hedge-planting, hedge-removal). Auto-fixed today: em-dash in assets/partials.html comment.",
+  "auditReport": "reports/2026-08-21-audit.md",
   "lastRun": "2026-08-21",
   "runType": "nightly-content",
   "articlesShipped": 1,
