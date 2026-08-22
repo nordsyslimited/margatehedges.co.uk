@@ -2,41 +2,41 @@
   "lastAuditAt": "2026-08-21T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 needs-review categories outstanding: (A) 3 articles missing explicit WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); (B) 8 of 15 articles using aggregate opener instead of specific incident; (C) 2 orphan noindex redirect stubs (hedge-planting, hedge-removal). Auto-fixed today: em-dash in assets/partials.html comment.",
+  "note": "3 needs-review categories outstanding from 2026-08-21 audit: (A) 3 articles missing explicit WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); (B) 8 of 15 articles using aggregate opener instead of specific incident; (C) 2 orphan noindex redirect stubs (hedge-planting, hedge-removal). Today's new article (leylandii-hedge-management) uses a specific incident opener and does not add to issue (B).",
   "auditReport": "reports/2026-08-21-audit.md",
-  "lastRun": "2026-08-21",
+  "lastRun": "2026-08-22",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugsShipped": ["yew-hedge-care-margate"],
+  "slugsShipped": ["leylandii-hedge-management-margate"],
   "topicsCovered": [
-    "Hedge health and species care (subcategory: yew-specific care, timing, renovation and coastal brown-patch diagnosis)"
+    "Leylandii (Leyland cypress) hedge management: maintain vs reduce vs remove comparison, bare-wood non-regeneration biology, ASB Act 2003 neighbour-dispute route, replacement species for CT8/CT9 coastal boundaries"
   ],
   "allIngestionCategoriesCovered": true,
   "sourceUsed": {
     "type": "YouTube",
     "sources": [
       {
-        "channel": "Burncoose Nurseries",
-        "videoTitle": "Pruning a yew / Taxus hedge",
-        "videoUrl": "https://www.youtube.com/watch?v=Cob1ZRm-aR8",
-        "publishedDate": "2019-09",
+        "channel": "best4hedging",
+        "videoTitle": "A focus on Leylandii hedging: All you need to know about Cupressocyparis leylandii",
+        "videoUrl": "https://www.youtube.com/watch?v=IImv7urAPMI",
+        "publishedDate": "2015-07",
         "egress": "blocked",
         "authorityVerified": true,
         "authorityMethod": "web-search-cross-reference",
-        "authorityNote": "Burncoose Nurseries (Gwennap, Cornwall) is one of the UK's most respected specialist plant nurseries. High authority for UK-specific horticultural guidance."
+        "authorityNote": "best4hedging.co.uk is one of the UK's leading hedging plant suppliers. Verified UK business with a dedicated YouTube channel on plant care. URL surfaced in web search results for UK leylandii hedge management YouTube video."
       }
     ]
   },
   "storyLedCompliant": true,
+  "storyLedType": "specific-incident",
   "wcaReferenced": true,
-  "thanetSpecificity": ["Sweyn Road", "Cliftonville", "Northdown", "Old Town", "Garlinge", "Palm Bay", "North Sea", "Thanet chalk ridge", "redwings", "fieldfares", "Thanet coast migration corridor"],
+  "thanetSpecificity": ["Palm Bay", "Foreness headland", "Garlinge", "Westgate-on-Sea", "Northdown", "Cliftonville", "Old Town", "Westbrook", "Thanet District Council", "CT8", "CT9"],
   "filesModified": [
-    "how-to/yew-hedge-care-margate.html",
+    "how-to/leylandii-hedge-management-margate.html",
     "how-to/index.html",
-    "how-to/formal-hedges-front-gardens-cliftonville.html",
     "sitemap.xml",
-    "reports/2026-08-21-content.md",
+    "reports/2026-08-22-content.md",
     "reports/status.json"
   ],
-  "nextRunNotes": "Suggested future topics: ivy removal from established hedges, root barriers and underground boundary growth, beech hedge establishment and aftercare, leylandii identification and management beyond staged reduction, laurel hedge care (pruning with secateurs vs trimmer, shothole fungus). Burncoose Nurseries has a dedicated laurel-pruning video on their YouTube channel (youtube.com/watch?v=VK4uNNDCrco) that would serve as a good source for the laurel article. Carry-forward audit issues remain (8 aggregate openers, 3 missing WCA refs, 2 orphan redirect pages) - out of scope for content run, flagged for morning audit."
+  "nextRunNotes": "Suggested future topics: laurel hedge care (secateurs vs trimmer, shothole fungus, hard renovation) using Burncoose Nurseries laurel-pruning video (youtube.com/watch?v=VK4uNNDCrco) as source; ivy removal from established hedges; beech hedge establishment and aftercare; root barriers and underground boundary growth. Carry-forward audit issues remain (8 aggregate openers in existing articles, 3 missing WCA refs, 2 orphan redirect pages) - out of scope for content run, flagged for morning audit."
 }
