@@ -1,42 +1,10 @@
 {
-  "lastAuditAt": "2026-08-21T07:00:00Z",
-  "auditStatus": "issues",
-  "issueCount": 3,
-  "note": "3 needs-review categories outstanding from 2026-08-21 audit: (A) 3 articles missing explicit WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let-hedge-maintenance); (B) 8 of 15 articles using aggregate opener instead of specific incident; (C) 2 orphan noindex redirect stubs (hedge-planting, hedge-removal). Today's new article (leylandii-hedge-management) uses a specific incident opener and does not add to issue (B).",
-  "auditReport": "reports/2026-08-21-audit.md",
-  "lastRun": "2026-08-22",
+  "lastRun": "2026-08-23",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugsShipped": ["leylandii-hedge-management-margate"],
-  "topicsCovered": [
-    "Leylandii (Leyland cypress) hedge management: maintain vs reduce vs remove comparison, bare-wood non-regeneration biology, ASB Act 2003 neighbour-dispute route, replacement species for CT8/CT9 coastal boundaries"
+  "slugsShipped": [
+    "how-to/laurel-hedge-care-margate.html"
   ],
-  "allIngestionCategoriesCovered": true,
-  "sourceUsed": {
-    "type": "YouTube",
-    "sources": [
-      {
-        "channel": "best4hedging",
-        "videoTitle": "A focus on Leylandii hedging: All you need to know about Cupressocyparis leylandii",
-        "videoUrl": "https://www.youtube.com/watch?v=IImv7urAPMI",
-        "publishedDate": "2015-07",
-        "egress": "blocked",
-        "authorityVerified": true,
-        "authorityMethod": "web-search-cross-reference",
-        "authorityNote": "best4hedging.co.uk is one of the UK's leading hedging plant suppliers. Verified UK business with a dedicated YouTube channel on plant care. URL surfaced in web search results for UK leylandii hedge management YouTube video."
-      }
-    ]
-  },
-  "storyLedCompliant": true,
-  "storyLedType": "specific-incident",
-  "wcaReferenced": true,
-  "thanetSpecificity": ["Palm Bay", "Foreness headland", "Garlinge", "Westgate-on-Sea", "Northdown", "Cliftonville", "Old Town", "Westbrook", "Thanet District Council", "CT8", "CT9"],
-  "filesModified": [
-    "how-to/leylandii-hedge-management-margate.html",
-    "how-to/index.html",
-    "sitemap.xml",
-    "reports/2026-08-22-content.md",
-    "reports/status.json"
-  ],
-  "nextRunNotes": "Suggested future topics: laurel hedge care (secateurs vs trimmer, shothole fungus, hard renovation) using Burncoose Nurseries laurel-pruning video (youtube.com/watch?v=VK4uNNDCrco) as source; ivy removal from established hedges; beech hedge establishment and aftercare; root barriers and underground boundary growth. Carry-forward audit issues remain (8 aggregate openers in existing articles, 3 missing WCA refs, 2 orphan redirect pages) - out of scope for content run, flagged for morning audit."
+  "reportFile": "reports/2026-08-23-content.md",
+  "status": "ok"
 }
