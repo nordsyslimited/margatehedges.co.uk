@@ -1,6 +1,6 @@
 {
-  "lastAuditAt": "2026-08-23T00:00:00Z",
+  "lastAuditAt": "2026-08-25T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "Auto-fixed: 1 em-dash (&mdash;) in laurel-hedge-care-margate.html sources paragraph, replaced with colon. 4 needs-review categories: (A) 4 YouTube URLs unverifiable from Anthropic infra (network blocked) — manual spot-check recommended; (B) WCA 1981 nesting-season callout missing from 2 pre-template timing articles (staged-hedge-reduction, formal-hedges-cliftonville); (C) genericised opener on 8 pre-template articles (unchanged carry-forward); (D) orphan redirect stubs for hedge-planting and hedge-removal service pages (unchanged carry-forward). All 2 new articles (leylandii Aug 22, laurel Aug 23) pass all template checks. Sitemap, robots.txt, SEO fields, JSON-LD all clean."
+  "note": "No auto-fixes today. New article beech-hedge-care-margate.html (Aug 24) passes all checks: story-led opener, WCA 1981 cited, flat Article JSON-LD, SEO clean. YouTube source URL count grows from 4 to 6 (2 new in beech) but remains network-blocked from Anthropic infra, same category as before. 4 carry-forward needs-review categories unchanged: (A) 6 YouTube source URLs unverifiable from Anthropic infra; (B) WCA 1981 nesting callout missing from staged-hedge-reduction and formal-hedges-cliftonville; (C) genericised opener on 8 pre-template articles; (D) orphan redirect stubs for hedge-planting and hedge-removal."
 }
