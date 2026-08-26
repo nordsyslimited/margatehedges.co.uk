@@ -1,10 +1,10 @@
 {
-  "lastRun": "2026-08-24",
+  "lastRun": "2026-08-26",
   "runType": "nightly-content",
   "articlesShipped": 1,
   "slugsShipped": [
-    "how-to/beech-hedge-care-margate.html"
+    "how-to/hornbeam-hedge-care-margate.html"
   ],
-  "reportFile": "reports/2026-08-24-content.md",
+  "reportFile": "reports/2026-08-26-content.md",
   "status": "ok"
 }
