@@ -1,6 +1,6 @@
 {
-  "lastAuditAt": "2026-08-26T00:00:00Z",
+  "lastAuditAt": "2026-08-27T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "No auto-fixes today. New article hornbeam-hedge-care-margate.html (Aug 26) passes all checks: story-led Dave/Northdown opener, WCA 1981 cited in Step 3, flat Article JSON-LD, SEO clean, sitemap updated. 4 carry-forward needs-review categories unchanged: (A) 6 YouTube source URLs unverifiable from Anthropic infra; (B) WCA 1981 nesting callout missing from staged-hedge-reduction and formal-hedges-cliftonville (holiday-let borderline); (C) genericised opener on 8 pre-template articles; (D) orphan redirect stubs for hedge-planting and hedge-removal."
+  "note": "2 auto-fixes: added meta description to services/hedge-planting.html and services/hedge-removal.html (noindex redirect stubs). New griselinia article (27 Aug) passes all checks. 4 carry-forward needs-review categories unchanged: (A) 6 YouTube watch URLs unverifiable from Anthropic infra; (B) WCA 1981 nesting callout missing from article body of staged-hedge-reduction and formal-hedges-cliftonville; (C) genericised opener on 8 pre-template articles; (D) orphan redirect stubs hedge-planting/hedge-removal now have descriptions, remain noindex."
 }
