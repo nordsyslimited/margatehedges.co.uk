@@ -1,6 +1,6 @@
 {
-  "lastAuditAt": "2026-08-27T00:00:00Z",
+  "lastAuditAt": "2026-08-28T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "2 auto-fixes: added meta description to services/hedge-planting.html and services/hedge-removal.html (noindex redirect stubs). New griselinia article (27 Aug) passes all checks. 4 carry-forward needs-review categories unchanged: (A) 6 YouTube watch URLs unverifiable from Anthropic infra; (B) WCA 1981 nesting callout missing from article body of staged-hedge-reduction and formal-hedges-cliftonville; (C) genericised opener on 8 pre-template articles; (D) orphan redirect stubs hedge-planting/hedge-removal now have descriptions, remain noindex."
+  "note": "Clean run, no auto-fixes. 4 carry-forward needs-review items unchanged: (A) 6 YouTube watch URLs unverifiable from Anthropic infra; (B) WCA 1981 nesting callout thin/missing in body of staged-hedge-reduction and formal-hedges-cliftonville; (C) genericised openers on those same two pre-template articles; (D) noindex redirect stubs hedge-planting/hedge-removal intentional. New hawthorn article (2026-08-28) passes all checks."
 }
