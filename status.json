@@ -1,6 +1,17 @@
 {
-  "lastAuditAt": "2026-08-29T00:00:00Z",
-  "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "Auto-fixed 11 double-dash punctuation substitutes in holly-hedge-care and hedge-cutting-tool-safety. 4 needs-review items: (A) 6 YouTube watch URLs unverifiable from Anthropic infra; (B) WCA 1981 callout thin/missing in staged-hedge-reduction and formal-hedges-cliftonville (carry-forward, pre-template); (C) genericised openers on those same two articles (carry-forward); (D) holiday-let article names May/June trim windows inside nesting season with no WCA 1981 reference in body prose (new flag). New holly article (2026-08-29) passes all P1 checks."
+  "run_date": "2026-08-30",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "slugs": [
+    "photinia-red-robin-hedge-care-margate"
+  ],
+  "report": "reports/2026-08-30-content.md",
+  "files_modified": [
+    "how-to/photinia-red-robin-hedge-care-margate.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "reports/2026-08-30-content.md",
+    "status.json"
+  ]
 }
