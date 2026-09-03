@@ -14,8 +14,8 @@
     "reports/2026-08-30-content.md",
     "status.json"
   ],
-  "lastAuditAt": "2026-09-02T07:00:00Z",
+  "lastAuditAt": "2026-09-03T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "2026-09-02 audit: pittosporum article passes all checks — story-led, WCA 1981 present, correct JSON-LD/SEO. Auto-fixed: nothing (clean run). 4 needs-review categories carry forward unchanged: WCA 1981 missing from 3 timing articles, structural-angle drift in 8 original articles, 2 noindex service stubs, YouTube verification blocked from audit infrastructure."
+  "note": "2026-09-03 audit: lonicera nitida article passes all checks — story-led, WCA 1981 thorough, correct JSON-LD/SEO. Auto-fixed: nothing (clean run). 4 needs-review categories carry forward unchanged: WCA 1981 missing from 3 timing articles, structural-angle drift in 8 original articles, 2 noindex service stubs, YouTube verification blocked from audit infrastructure."
 }
