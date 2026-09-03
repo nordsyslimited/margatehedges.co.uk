@@ -1,16 +1,16 @@
 {
-  "lastRun": "2026-09-02",
+  "lastRun": "2026-09-03",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-09-02",
-      "slug": "pittosporum-hedge-care-margate.html",
-      "title": "Pittosporum Hedge Care in Margate: Varieties, Coastal Resilience and Trimming Timing",
+      "date": "2026-09-03",
+      "slug": "lonicera-nitida-shrubby-honeysuckle-hedge-margate.html",
+      "title": "Lonicera Nitida Hedge Care in Margate: Timing Three Cuts Around the Nesting Season",
       "category": "Species & planting",
-      "source": "YouTube: How to trim a Pittosporum Hedge (Feb 2025) + UK horticultural web sources",
-      "sourceVerified": "partial — YouTube egress blocked, channel name unconfirmed; content corroborated via RHS, BBC GW, Gardens Illustrated"
+      "source": "YouTube: UK lonicera hedge renovation series (April-October 2023, two confirmed episodes)",
+      "sourceVerified": "partial — YouTube egress blocked; video existence confirmed via web search; UK relevance inferred from hashtag and indexed content descriptions"
     }
   ],
-  "totalHowToArticles": 26,
-  "lastAudit": "2026-09-01"
+  "totalHowToArticles": 27,
+  "lastAudit": "2026-09-02"
 }
