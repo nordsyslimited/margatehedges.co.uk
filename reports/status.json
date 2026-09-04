@@ -1,16 +1,16 @@
 {
-  "lastRun": "2026-09-03",
+  "lastRun": "2026-09-04",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-09-03",
-      "slug": "lonicera-nitida-shrubby-honeysuckle-hedge-margate.html",
-      "title": "Lonicera Nitida Hedge Care in Margate: Timing Three Cuts Around the Nesting Season",
+      "date": "2026-09-04",
+      "slug": "elaeagnus-hedge-care-margate.html",
+      "title": "Elaeagnus x ebbingei Hedge Care in Margate: Timing, Renovation and the October Window",
       "category": "Species & planting",
-      "source": "YouTube: UK lonicera hedge renovation series (April-October 2023, two confirmed episodes)",
-      "sourceVerified": "partial — YouTube egress blocked; video existence confirmed via web search; UK relevance inferred from hashtag and indexed content descriptions"
+      "source": "UK YouTube content on elaeagnus hedge renovation (channel-authority heuristic; direct YouTube egress blocked by Anthropic proxy HTTP 403); factual accuracy cross-checked via RHS Elaeagnus x ebbingei plant profile and UK hedging-supplier trimming guidance",
+      "sourceVerified": "partial — YouTube egress blocked; UK practitioner elaeagnus renovation content confirmed to exist via web-indexed summaries; RHS and hedging-supplier data used for factual accuracy"
     }
   ],
-  "totalHowToArticles": 27,
-  "lastAudit": "2026-09-02"
+  "totalHowToArticles": 28,
+  "lastAudit": "2026-09-03"
 }
