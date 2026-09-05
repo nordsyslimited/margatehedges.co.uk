@@ -8,6 +8,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Write deploy-time secrets
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          mkdir -p config
+          cat > config/secrets.php <<PHP
+          <?php
+          // deploy-time generated $(date -u +%Y-%m-%dT%H:%M:%SZ)
+          return [
+              'resend_api_key' => '${RESEND_API_KEY}',
+          ];
+          PHP
       - name: FTP-Deploy
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
