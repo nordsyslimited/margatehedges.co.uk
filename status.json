@@ -14,8 +14,8 @@
     "reports/2026-08-30-content.md",
     "status.json"
   ],
-  "lastAuditAt": "2026-09-04T08:00:00Z",
+  "lastAuditAt": "2026-09-05T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "2026-09-04 audit: elaeagnus article passes all checks. Auto-fixed: 2 stale sitemap lastmods (homepage 2026-08-13→2026-08-28, how-to/ 2026-08-31→2026-09-04). 4 needs-review categories carry forward: WCA 1981 missing from 3 timing articles (staged-reduction, formal-hedges, holiday-let), structural-angle drift in 8 original articles, 2 noindex service stubs, YouTube verification blocked from audit infrastructure."
+  "note": "2026-09-05 audit: berberis article passes all P1 checks. No auto-fixes needed. 4 needs-review categories carry forward: WCA 1981 missing from 3 timing articles (staged-reduction, formal-hedges, holiday-let), structural-angle drift in original hand-authored articles, YouTube verification blocked from audit infrastructure (7 URLs, 403 from server-side curl), 2 noindex service stubs (hedge-planting, hedge-removal)."
 }
