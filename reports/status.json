@@ -1,16 +1,16 @@
 {
-  "lastRun": "2026-09-04",
+  "lastRun": "2026-09-05",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-09-04",
-      "slug": "elaeagnus-hedge-care-margate.html",
-      "title": "Elaeagnus x ebbingei Hedge Care in Margate: Timing, Renovation and the October Window",
+      "date": "2026-09-05",
+      "slug": "berberis-barberry-hedge-care-margate.html",
+      "title": "Berberis (barberry) in Margate: species, timing and the nesting-season trap",
       "category": "Species & planting",
-      "source": "UK YouTube content on elaeagnus hedge renovation (channel-authority heuristic; direct YouTube egress blocked by Anthropic proxy HTTP 403); factual accuracy cross-checked via RHS Elaeagnus x ebbingei plant profile and UK hedging-supplier trimming guidance",
-      "sourceVerified": "partial — YouTube egress blocked; UK practitioner elaeagnus renovation content confirmed to exist via web-indexed summaries; RHS and hedging-supplier data used for factual accuracy"
+      "source": "Garden Ninja (Lee Burkhill, BBC Garden Rescue presenter, gardenninja.co.uk) berberis pruning guide; factual accuracy cross-checked via RHS Berberis growing guide and WCA 1981 guidance. Direct YouTube egress blocked by Anthropic proxy HTTP 403; channel-authority heuristic applied per INGESTION.md.",
+      "sourceVerified": "partial — YouTube egress blocked; Garden Ninja YouTube channel existence confirmed via web search (8M+ views, UK-based professional); RHS and WCA 1981 data used for factual accuracy"
     }
   ],
-  "totalHowToArticles": 28,
-  "lastAudit": "2026-09-03"
+  "totalHowToArticles": 29,
+  "lastAudit": "2026-09-04"
 }
