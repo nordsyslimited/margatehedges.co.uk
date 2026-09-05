@@ -6,7 +6,7 @@
   },
   "ingestion": {
     "description": "Nightly: finds UK hedge-care sources (video or written) and creates a story-led (case-study opening) How-To article for each, matching Margate/Thanet species and conditions. Morning: audits the full site.",
-    "structuralAngle": "story-led / case-study — every article opens with a short real-feeling job scenario before the practical detail. See TEMPLATES/how-to.md. This is the site's ring-wide anti-fingerprinting assignment; do not drift to a generic hero-first shape.",
+    "structuralAngle": "story-led / case-study - every article opens with a short real-feeling job scenario before the practical detail. See TEMPLATES/how-to.md. This is the site's ring-wide anti-fingerprinting assignment; do not drift to a generic hero-first shape.",
     "region": "UK",
     "minLikes": 100,
     "minViews": null,
@@ -35,9 +35,9 @@
     "contentGlob": "how-to/*.html",
     "contentGlobExclude": ["how-to/index.html"],
     "hubFile": "how-to/index.html",
-    "hubGrowthMechanism": "static .grid.grid-2 of .card elements, no data-howto-cat filter system (unlike sandwichhedges.co.uk) — add a new card in reading order",
-    "jsonLdPattern": "flat Article object (author: Person 'Richard Lim', publisher: Organization) — NOT @graph, NOT HowTo. See TEMPLATES/how-to.md section 2.",
-    "relatedGuidesConvention": "none — no JET-RELATED-GUIDES comment blocks on this site; use plain in-text <a> cross-links instead"
+    "hubGrowthMechanism": "static .grid.grid-2 of .card elements, no data-howto-cat filter system (unlike sandwichhedges.co.uk) - add a new card in reading order",
+    "jsonLdPattern": "flat Article object (author: Person 'Richard Lim', publisher: Organization) - NOT @graph, NOT HowTo. See TEMPLATES/how-to.md section 2.",
+    "relatedGuidesConvention": "none - no JET-RELATED-GUIDES comment blocks on this site; use plain in-text <a> cross-links instead"
   },
   "schedule": {
     "nightly": {
@@ -55,10 +55,10 @@
   },
   "notifications": {
     "email": "hello@margatehedges.co.uk",
-    "channel": "TBD — no email-report workflow wired yet, see INGESTION.md"
+    "channel": "TBD - no email-report workflow wired yet, see INGESTION.md"
   },
   "triggers": {
-    "nightly": "TBD — created on claude.ai/code when the routine is set up",
-    "morning": "TBD — created on claude.ai/code when the routine is set up"
+    "nightly": "TBD - created on claude.ai/code when the routine is set up",
+    "morning": "TBD - created on claude.ai/code when the routine is set up"
   }
 }
