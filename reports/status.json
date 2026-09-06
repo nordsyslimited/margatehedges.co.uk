@@ -1,16 +1,16 @@
 {
-  "lastRun": "2026-09-05",
+  "lastRun": "2026-09-06",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-09-05",
-      "slug": "berberis-barberry-hedge-care-margate.html",
-      "title": "Berberis (barberry) in Margate: species, timing and the nesting-season trap",
+      "date": "2026-09-06",
+      "slug": "osmanthus-burkwoodii-hedge-care-margate.html",
+      "title": "Osmanthus Burkwoodii in Margate: Timing, Flowers and Coastal Suitability",
       "category": "Species & planting",
-      "source": "Garden Ninja (Lee Burkhill, BBC Garden Rescue presenter, gardenninja.co.uk) berberis pruning guide; factual accuracy cross-checked via RHS Berberis growing guide and WCA 1981 guidance. Direct YouTube egress blocked by Anthropic proxy HTTP 403; channel-authority heuristic applied per INGESTION.md.",
-      "sourceVerified": "partial — YouTube egress blocked; Garden Ninja YouTube channel existence confirmed via web search (8M+ views, UK-based professional); RHS and WCA 1981 data used for factual accuracy"
+      "source": "Hedge Plants YouTube channel (UK hedging nursery): 'How to Prune Osmanthus Delavayi | Hedge Plants | Osmanthus Burkwoodii' and 'How to Grow an Osmanthus Burkwoodii | Hedge Plants'. Secondary: ReadyHedge cultivation notes, RHS Osmanthus x burkwoodii profile (via web search snippets), WCA 1981.",
+      "sourceVerified": "partial — YouTube egress blocked (Anthropic proxy HTTP 403); Hedge Plants channel confirmed as UK hedging nursery channel via web search and IssueWire press release; factual accuracy cross-checked against ReadyHedge and RHS guidance snippets"
     }
   ],
-  "totalHowToArticles": 29,
-  "lastAudit": "2026-09-04"
+  "totalHowToArticles": 30,
+  "lastAudit": "2026-09-05"
 }
