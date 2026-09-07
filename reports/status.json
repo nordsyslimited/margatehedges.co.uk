@@ -1,16 +1,16 @@
 {
-  "lastRun": "2026-09-06",
+  "lastRun": "2026-09-07",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-09-06",
-      "slug": "osmanthus-burkwoodii-hedge-care-margate.html",
-      "title": "Osmanthus Burkwoodii in Margate: Timing, Flowers and Coastal Suitability",
+      "date": "2026-09-07",
+      "slug": "rosa-rugosa-beach-rose-hedge-margate.html",
+      "title": "Rosa Rugosa Hedge Care in Margate: Suckers, Renovation and Coastal Advantages",
       "category": "Species & planting",
-      "source": "Hedge Plants YouTube channel (UK hedging nursery): 'How to Prune Osmanthus Delavayi | Hedge Plants | Osmanthus Burkwoodii' and 'How to Grow an Osmanthus Burkwoodii | Hedge Plants'. Secondary: ReadyHedge cultivation notes, RHS Osmanthus x burkwoodii profile (via web search snippets), WCA 1981.",
-      "sourceVerified": "partial — YouTube egress blocked (Anthropic proxy HTTP 403); Hedge Plants channel confirmed as UK hedging nursery channel via web search and IssueWire press release; factual accuracy cross-checked against ReadyHedge and RHS guidance snippets"
+      "source": "RHS YouTube channel (@The_RHS): 'Pruning rugosa roses with Ian le Gros of RHS Hyde Hall' (youtube.com/watch?v=BDHe1cYnTYw, January 2014). Secondary: RHS Rosa rugosa growing guide (rhs.org.uk), Ashridge Trees coastal hedging species guide.",
+      "sourceVerified": "partial — YouTube egress blocked (Anthropic proxy HTTP 403); RHS channel confirmed as UK authority (UK's leading gardening charity, ~100K subscribers, 742+ videos) via web search; Ian le Gros confirmed as RHS Hyde Hall Curator via search-indexed press materials; video title confirmed to exist on RHS channel via site:youtube.com search result"
     }
   ],
-  "totalHowToArticles": 30,
-  "lastAudit": "2026-09-05"
+  "totalHowToArticles": 31,
+  "lastAudit": "2026-09-06"
 }
