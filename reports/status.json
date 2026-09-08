@@ -1,16 +1,9 @@
 {
-  "lastRun": "2026-09-04",
-  "lastRunType": "nightly-content",
-  "articlesShipped": [
-    {
-      "date": "2026-09-04",
-      "slug": "elaeagnus-hedge-care-margate.html",
-      "title": "Elaeagnus x ebbingei Hedge Care in Margate: Timing, Renovation and the October Window",
-      "category": "Species & planting",
-      "source": "UK YouTube content on elaeagnus hedge renovation (channel-authority heuristic; direct YouTube egress blocked by Anthropic proxy HTTP 403); factual accuracy cross-checked via RHS Elaeagnus x ebbingei plant profile and UK hedging-supplier trimming guidance",
-      "sourceVerified": "partial — YouTube egress blocked; UK practitioner elaeagnus renovation content confirmed to exist via web-indexed summaries; RHS and hedging-supplier data used for factual accuracy"
-    }
+  "lastRun": "2026-09-08",
+  "runType": "nightly-content",
+  "articlesShipped": 1,
+  "slugs": [
+    "viburnum-tinus-laurustinus-hedge-margate"
   ],
-  "totalHowToArticles": 28,
-  "lastAudit": "2026-09-03"
+  "reportFile": "reports/2026-09-08-content.md"
 }
