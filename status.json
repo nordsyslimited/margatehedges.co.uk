@@ -14,8 +14,8 @@
     "reports/2026-08-30-content.md",
     "status.json"
   ],
-  "lastAuditAt": "2026-09-07T08:00:00Z",
+  "lastAuditAt": "2026-09-08T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "2026-09-07 audit: rosa-rugosa article (new, shipped today) passes all P1 checks. No auto-fixes needed. 4 needs-review categories carry forward: WCA 1981 missing from 3 timing articles (staged-reduction, formal-hedges, holiday-let), structural-angle drift in original 9 hand-authored articles, YouTube verification blocked from audit infrastructure (8 URLs, up from 7 — rosa-rugosa adds BDHe1cYnTYw), 2 noindex service stubs (hedge-planting, hedge-removal)."
+  "note": "2026-09-08 audit: viburnum-tinus article (new, shipped today) passes all P1 checks. Auto-fixed 8 double-hyphen em-dash substitutes in viburnum article. 4 needs-review categories carry forward: WCA 1981 missing from 3 timing articles (staged-reduction, formal-hedges, holiday-let), structural-angle drift in original 9 hand-authored articles, YouTube verification blocked from audit infrastructure (8 URLs), 2 noindex service stubs (hedge-planting, hedge-removal)."
 }
