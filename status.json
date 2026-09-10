@@ -14,8 +14,8 @@
     "reports/2026-08-30-content.md",
     "status.json"
   ],
-  "lastAuditAt": "2026-09-09T08:00:00Z",
+  "lastAuditAt": "2026-09-10T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "2026-09-09 audit: thuja article (new, shipped today) passes all P1 checks. No auto-fixes needed. 4 needs-review categories carry forward unchanged: WCA 1981 missing from 3 timing articles (staged-reduction, formal-hedges, holiday-let), structural-angle drift in original 9 hand-authored articles, YouTube verification blocked from audit infrastructure (9 URLs total, +1 from thuja, +rosa-rugosa BDHe1cYnTYw now counted), 2 noindex service stubs (hedge-planting, hedge-removal)."
+  "issueCount": 3,
+  "note": "2026-09-10 audit: 2 auto-fixes applied (banned filler 'robust' in cotoneaster → 'hardy'; 404.html description stub upgraded). 3 needs-review: YouTube embed verification blocked by infra (9 URLs, ongoing); structural-angle drift in 7 articles (generic opener before job story); 2 noindex service stubs (carry-forward). Resolved since last audit: WCA 1981 now present on all 28 timing articles (3 previously flagged now clear)."
 }
