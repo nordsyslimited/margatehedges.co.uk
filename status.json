@@ -14,8 +14,8 @@
     "reports/2026-09-11-content.md",
     "status.json"
   ],
-  "lastAuditAt": "2026-09-10T08:00:00Z",
+  "lastAuditAt": "2026-09-11T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "2026-09-11 nightly: shipped filling-gaps-in-hedges-margate.html (Reductions & renovation, decision-point structure). Source: An English Homestead (Kev Alviti), UK YouTube channel. YouTube egress blocked -- channel authority verified via web search. 2026-09-10 audit carry-forward: YouTube embed verification blocked (9 URLs, ongoing); structural-angle drift in 7 articles; 2 noindex service stubs."
+  "note": "2026-09-11 audit: no auto-fixes. 3 needs-review: YouTube embed verification blocked (8 videos/7 articles, ongoing); WCA 1981 missing from 3 pre-template timing articles (staged-reduction, formal-hedges, holiday-let -- reinstated, Sep 10 audit incorrectly marked clear); 2 noindex service stubs. Structural-angle drift carry-forward CLEARED: all 35 articles pass story-led check. New article filling-gaps passes all P1 checks."
 }
