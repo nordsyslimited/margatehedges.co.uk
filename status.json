@@ -1,21 +1,21 @@
 {
-  "run_date": "2026-08-30",
+  "run_date": "2026-09-11",
   "run_type": "nightly-content",
   "status": "success",
   "articles_shipped": 1,
   "slugs": [
-    "photinia-red-robin-hedge-care-margate"
+    "filling-gaps-in-hedges-margate"
   ],
-  "report": "reports/2026-08-30-content.md",
+  "report": "reports/2026-09-11-content.md",
   "files_modified": [
-    "how-to/photinia-red-robin-hedge-care-margate.html",
+    "how-to/filling-gaps-in-hedges-margate.html",
     "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-08-30-content.md",
+    "reports/2026-09-11-content.md",
     "status.json"
   ],
   "lastAuditAt": "2026-09-10T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "2026-09-10 audit: 2 auto-fixes applied (banned filler 'robust' in cotoneaster → 'hardy'; 404.html description stub upgraded). 3 needs-review: YouTube embed verification blocked by infra (9 URLs, ongoing); structural-angle drift in 7 articles (generic opener before job story); 2 noindex service stubs (carry-forward). Resolved since last audit: WCA 1981 now present on all 28 timing articles (3 previously flagged now clear)."
+  "note": "2026-09-11 nightly: shipped filling-gaps-in-hedges-margate.html (Reductions & renovation, decision-point structure). Source: An English Homestead (Kev Alviti), UK YouTube channel. YouTube egress blocked -- channel authority verified via web search. 2026-09-10 audit carry-forward: YouTube embed verification blocked (9 URLs, ongoing); structural-angle drift in 7 articles; 2 noindex service stubs."
 }
