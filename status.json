@@ -14,8 +14,8 @@
     "reports/2026-09-12-content.md",
     "status.json"
   ],
-  "lastAuditAt": "2026-09-11T08:00:00Z",
+  "lastAuditAt": "2026-09-12T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "2026-09-12 nightly: 1 article shipped (hebe-hedge-care-margate). Topic: hebe hedge care, month-by-month calendar structure, coastal/salt-tolerant species. Source: Crocus.co.uk YouTube channel. Story-led opening: Northdown customer, April frost-damage assessment. All P1 checks pass. Carry-forward from 2026-09-11 audit: YouTube embed verification blocked (ongoing), WCA 1981 missing from 3 pre-template timing articles (needs-review), 2 noindex service stubs."
+  "note": "2026-09-12 audit: no auto-fixes. All auto-fix checks clean (no em-dashes, no banned filler, robots.txt complete, SEO/sitemap/JSON-LD all clear). 3 carry-forward needs-review: YouTube URL verification blocked by proxy (9 cited videos, no iframes), WCA 1981 missing from 3 pre-template timing articles (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let), 2 noindex redirect stubs. New article hebe-hedge-care-margate passes all P1 checks."
 }
