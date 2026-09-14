@@ -1,21 +1,18 @@
 {
-  "run_date": "2026-09-12",
+  "run_date": "2026-09-14",
   "run_type": "nightly-content",
   "status": "success",
   "articles_shipped": 1,
   "slugs": [
-    "hebe-hedge-care-margate"
+    "forsythia-hedge-care-margate"
   ],
-  "report": "reports/2026-09-12-content.md",
+  "report": "reports/2026-09-14-content.md",
   "files_modified": [
-    "how-to/hebe-hedge-care-margate.html",
+    "how-to/forsythia-hedge-care-margate.html",
     "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-09-12-content.md",
+    "reports/2026-09-14-content.md",
     "status.json"
   ],
-  "lastAuditAt": "2026-09-13T00:00:00Z",
-  "auditStatus": "issues",
-  "issueCount": 2,
-  "note": "2026-09-13 audit: 1 auto-fix (sitemap lastmod for how-to/ updated 2026-09-10 → 2026-09-13). 2 needs-review: YouTube video verification inconclusive (11 cited watch URLs, 403 from curl = expected bot-block, manual check recommended); cotoneaster article has 2-sentence generic opener before story (technically within TEMPLATES spec but mild drift). All other checks clean: 37 how-to articles, no broken links, no em-dashes, no banned filler, no non-UK spelling, all WCA 1981 callouts present, robots.txt complete, all SEO basics correct."
+  "note": "Forsythia hedge care article: timing (post-flowering April cut), WCA 1981 nesting-season complication, renovation guide for hedges cut on wrong calendar. Source: David Domoney YouTube channel (UK Chartered Horticulturist, ITV). YouTube direct fetch 403 as expected; authority confirmed via daviddomoney.com and Wikipedia cross-reference."
 }
