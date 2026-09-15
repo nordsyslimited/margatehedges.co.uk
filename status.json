@@ -15,8 +15,8 @@
     "status.json"
   ],
   "note": "Forsythia hedge care article: timing (post-flowering April cut), WCA 1981 nesting-season complication, renovation guide for hedges cut on wrong calendar. Source: David Domoney YouTube channel (UK Chartered Horticulturist, ITV). YouTube direct fetch 403 as expected; authority confirmed via daviddomoney.com and Wikipedia cross-reference.",
-  "lastAuditAt": "2026-09-14T00:00:00Z",
+  "lastAuditAt": "2026-09-15T08:31:10Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "auditNote": "Auto-fixed: 2 service pages added to sitemap (hedge-planting, hedge-removal). Needs review: 10 YouTube embeds unverifiable via proxy (manual check needed); 3 timing articles missing explicit WCA 1981 callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let); 2 articles with generic lede before story (cotoneaster, rosa-rugosa). Full report: reports/2026-09-14-audit.md"
+  "issueCount": 14,
+  "auditNote": "No auto-fixes needed. Needs review: 12 YouTube embeds unverifiable via proxy (manual check needed; 2 new since yesterday); 3 timing articles missing explicit WCA 1981 callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let) — carry-over; 11 articles with generic species-description lede before job story (structural drift from house style, pattern escalated — see report). Full report: reports/2026-09-15-audit.md"
 }
