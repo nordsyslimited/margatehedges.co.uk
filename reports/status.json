@@ -1,10 +1,11 @@
 {
-  "lastRun": "2026-09-16",
+  "lastRun": "2026-09-17",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugsShipped": [
-    "hazel-hedge-care-margate.html"
-  ],
+  "articlesThisRun": ["how-to/ivy-removal-hedge-margate.html"],
   "totalHowToArticles": 41,
-  "status": "ok"
+  "lastArticleSlug": "ivy-removal-hedge-margate.html",
+  "lastArticleDate": "2026-09-17",
+  "status": "ok",
+  "notes": "1 of target 3 articles shipped. Topic: ivy removal from established garden hedges. Source: RHS written guidance (UK-authoritative). YouTube egress did not return a UK-attributed video specific to ivy-in-hedge removal; written source used per INGESTION.md provision."
 }
