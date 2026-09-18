@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-09-17",
+  "lastRun": "2026-09-18",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "articlesThisRun": ["how-to/ivy-removal-hedge-margate.html"],
-  "totalHowToArticles": 41,
-  "lastArticleSlug": "ivy-removal-hedge-margate.html",
-  "lastArticleDate": "2026-09-17",
+  "articlesThisRun": ["how-to/hedgerows-regulations-1997-margate-kent.html"],
+  "totalHowToArticles": 42,
+  "lastArticleSlug": "hedgerows-regulations-1997-margate-kent.html",
+  "lastArticleDate": "2026-09-18",
   "status": "ok",
-  "notes": "1 of target 3 articles shipped. Topic: ivy removal from established garden hedges. Source: RHS written guidance (UK-authoritative). YouTube egress did not return a UK-attributed video specific to ivy-in-hedge removal; written source used per INGESTION.md provision."
+  "notes": "1 of target 3 articles shipped. Topic: Hedgerows Regulations 1997 - when boundary hedge removal requires 42-day notice to Thanet DC. Source: CPRE YouTube webinar by Emma Marrington (verified via web search; YouTube egress blocked as expected per INGESTION.md). Decision-points structure used (distinct from yesterday numbered steps and day-before comparison table)."
 }
