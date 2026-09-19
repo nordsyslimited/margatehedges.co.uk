@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-09-18",
+  "lastRun": "2026-09-19",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "articlesThisRun": ["how-to/hedgerows-regulations-1997-margate-kent.html"],
-  "totalHowToArticles": 42,
-  "lastArticleSlug": "hedgerows-regulations-1997-margate-kent.html",
-  "lastArticleDate": "2026-09-18",
+  "articlesThisRun": ["how-to/traditional-hedge-laying-kent-margate.html"],
+  "totalHowToArticles": 43,
+  "lastArticleSlug": "traditional-hedge-laying-kent-margate.html",
+  "lastArticleDate": "2026-09-19",
   "status": "ok",
-  "notes": "1 of target 3 articles shipped. Topic: Hedgerows Regulations 1997 - when boundary hedge removal requires 42-day notice to Thanet DC. Source: CPRE YouTube webinar by Emma Marrington (verified via web search; YouTube egress blocked as expected per INGESTION.md). Decision-points structure used (distinct from yesterday numbered steps and day-before comparison table)."
+  "notes": "1 article shipped. Topic: traditional hedge laying (South of England style) - when a native hawthorn/blackthorn boundary needs laying not trimming. Source: Country Living UK YouTube channel, Paul Lamb (@westcountry_hedgelayer), November 2024 (verified via web search; YouTube egress blocked as expected per INGESTION.md). Month-by-month/calendar structure used (distinct from yesterday's decision points, day-before numbered steps, day-before-that comparison table)."
 }
