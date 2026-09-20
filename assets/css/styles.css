@@ -105,9 +105,9 @@ nav.primary a.active::after { content: ''; position: absolute; left: 0; right: 0
 .hero {
   background:
     radial-gradient(circle at 88% 22%, rgba(230,182,76,0.28) 0%, transparent 32%),
-    linear-gradient(180deg, transparent 60%, rgba(0,0,0,0.16) 100%),
+    linear-gradient(180deg, rgba(26,42,53,0.55) 0%, rgba(26,42,53,0.72) 55%, rgba(26,42,53,0.92) 100%),
     url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='120' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M0 120 L0 80 Q60 60 120 78 Q180 96 240 74 Q300 52 360 74 Q420 96 480 74 Q540 52 600 74 Q660 96 720 74 Q780 52 840 74 Q900 96 960 74 Q1020 52 1080 74 Q1140 96 1200 74 L1200 120 Z' fill='%23f0e6d2' opacity='0.28'/%3E%3C/svg%3E") bottom/100% 120px no-repeat,
-    linear-gradient(160deg, #1a2a35 0%, #2a5257 50%, #4a8b8f 100%);
+    url("/assets/img/hero-margate.jpg") center/cover no-repeat;
   color: var(--surface);
   padding: 5rem 0 5rem;
   position: relative;
@@ -193,6 +193,8 @@ section.alt { background: var(--surface); border-top: 1px solid var(--border); b
 }
 section.alt .card { background: var(--paper); border-color: var(--border-dark); }
 .card:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); border-color: var(--accent); }
+.card-img { display: block; width: calc(100% + 3.6rem); margin: -1.8rem -1.8rem 1.2rem; border-radius: 3px 3px 0 0; aspect-ratio: 16 / 10; object-fit: cover; }
+.grid-4 .card-img { width: calc(100% + 2.8rem); margin: -1.4rem -1.4rem 1.1rem; }
 .card h3 { margin-top: 0; }
 .card a.card-link { color: var(--text); text-decoration: none; }
 .card a.card-link:hover { color: var(--accent-alt); }
