@@ -1,22 +1,22 @@
 {
-  "run_date": "2026-09-14",
+  "run_date": "2026-09-20",
   "run_type": "nightly-content",
   "status": "success",
   "articles_shipped": 1,
   "slugs": [
-    "forsythia-hedge-care-margate"
+    "pleached-hedge-margate-privacy-screening"
   ],
-  "report": "reports/2026-09-14-content.md",
+  "report": "reports/2026-09-20-content.md",
   "files_modified": [
-    "how-to/forsythia-hedge-care-margate.html",
+    "how-to/pleached-hedge-margate-privacy-screening.html",
     "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-09-14-content.md",
+    "reports/2026-09-20-content.md",
     "status.json"
   ],
-  "note": "Forsythia hedge care article: timing (post-flowering April cut), WCA 1981 nesting-season complication, renovation guide for hedges cut on wrong calendar. Source: David Domoney YouTube channel (UK Chartered Horticulturist, ITV). YouTube direct fetch 403 as expected; authority confirmed via daviddomoney.com and Wikipedia cross-reference.",
+  "note": "Pleached hedge / hedge on stilts article: seven-step guide to creating and maintaining a pleached hornbeam screen, with coastal species comparison (hornbeam vs Portuguese laurel vs lime for CT8/CT9), framework construction, training sequence and WCA 1981 nesting-season clip timing. Source: Pots & Trowels YouTube channel, Martin Fish (RHS judge). YouTube direct fetch 403 as expected; authority confirmed via martinfish.com, genusgardenwear.com, Apple Podcasts and Darlac Ltd cross-reference via search snippets.",
   "lastAuditAt": "2026-09-19T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 27,
-  "auditNote": "No auto-fixes needed. Needs review: 13 YouTube video links unverifiable via proxy (carry-over, no change); 3 timing articles missing explicit WCA 1981 callout in body (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let) — carry-over; 11 articles with generic species-description lede (structural drift) — carry-over. Today's traditional-hedge-laying article fully clean. 43 how-to articles total. Full report: reports/2026-09-19-audit.md"
+  "auditNote": "No auto-fixes needed. Needs review: 13 YouTube video links unverifiable via proxy (carry-over, no change); 3 timing articles missing explicit WCA 1981 callout in body (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let) — carry-over; 11 articles with generic species-description lede (structural drift) — carry-over. Today's traditional-hedge-laying article fully clean. 43 how-to articles total before today's run. Full report: reports/2026-09-19-audit.md"
 }
