@@ -15,8 +15,8 @@
     "status.json"
   ],
   "note": "Pleached hedge / hedge on stilts article: seven-step guide to creating and maintaining a pleached hornbeam screen, with coastal species comparison (hornbeam vs Portuguese laurel vs lime for CT8/CT9), framework construction, training sequence and WCA 1981 nesting-season clip timing. Source: Pots & Trowels YouTube channel, Martin Fish (RHS judge). YouTube direct fetch 403 as expected; authority confirmed via martinfish.com, genusgardenwear.com, Apple Podcasts and Darlac Ltd cross-reference via search snippets.",
-  "lastAuditAt": "2026-09-20T08:00:00Z",
+  "lastAuditAt": "2026-09-21T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 27,
-  "auditNote": "No auto-fixes needed. All auto-fix categories clean: robots.txt, theme-color, canonical, meta descriptions, sitemap, em-dashes, banned filler. Needs review (all carry-overs): 13 YouTube video links unverifiable via proxy; 3 timing articles missing WCA 1981 nesting callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let); 11 articles with structural drift (generic species-description lede, no new additions today). Today's pleached-hedge article and yesterday's traditional-hedge-laying both story-led and fully compliant. 44 how-to articles total. Full report: reports/2026-09-20-audit.md"
+  "issueCount": 25,
+  "auditNote": "No auto-fixes needed. All auto-fix categories clean: robots.txt, theme-color, canonical, meta descriptions, sitemap (63 entries with lastmod), em-dashes, banned filler. 45 how-to articles; 0 orphans; 0 broken links. Needs review: 13 YouTube video links unverifiable via proxy (carry-over); 3 timing articles missing WCA 1981 callout (staged-hedge-reduction, formal-hedges-cliftonville, holiday-let — carry-over); 9 articles with leaked pipeline/infrastructure text in source paragraphs (NEW — beech, yew, berberis, osmanthus, elaeagnus, laurel, leylandii, photinia, rosa-rugosa). Lower-priority carry-overs: 11 original articles with generic aggregate opener; 2 noindex redirect pages in sitemap. Today's feeding-hedges article fully compliant. Full report: reports/2026-09-21-audit.md"
 }
