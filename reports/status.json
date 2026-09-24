@@ -1,11 +1,19 @@
 {
-  "lastRun": "2026-09-21",
-  "runType": "nightly-content",
-  "articlesShipped": 1,
-  "articlesThisRun": ["how-to/feeding-hedges-margate-thanet.html"],
-  "totalHowToArticles": 45,
-  "lastArticleSlug": "feeding-hedges-margate-thanet.html",
-  "lastArticleDate": "2026-09-21",
-  "status": "ok",
-  "notes": "1 article shipped. Topic: hedge feeding and fertilising in CT9 chalk conditions - organic vs granular comparison, spring window, micronutrient lockout on high-pH chalk soils. Source: 'Early spring feeding tips for thick green hedges and vibrant hollies' (YouTube March 2025, UK), cross-referenced with Hopes Grove Nurseries (Kent) knowledge base (YouTube egress blocked as expected per INGESTION.md, channel-authority heuristic applied). Comparison/table structure used (not used in last 4 articles; no three-in-a-row repetition). Hub card added with Seasonality eyebrow. Sitemap updated."
+  "lastRun": "2026-09-24",
+  "articlesShipped": ["how-to/new-hedge-establishment-margate.html"],
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=_zZuPahlvY8",
+      "title": "Top Tips to establish a Happy Healthy Hedge",
+      "channel": "My Eden (Bunny Guinness)",
+      "published": "2025-07-11"
+    }
+  ],
+  "filesModified": [
+    "how-to/new-hedge-establishment-margate.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "reports/2026-09-24-content.md",
+    "reports/status.json"
+  ]
 }
