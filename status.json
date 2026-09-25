@@ -15,8 +15,8 @@
     "status.json"
   ],
   "note": "Pleached hedge / hedge on stilts article: seven-step guide to creating and maintaining a pleached hornbeam screen, with coastal species comparison (hornbeam vs Portuguese laurel vs lime for CT8/CT9), framework construction, training sequence and WCA 1981 nesting-season clip timing. Source: Pots & Trowels YouTube channel, Martin Fish (RHS judge). YouTube direct fetch 403 as expected; authority confirmed via martinfish.com, genusgardenwear.com, Apple Podcasts and Darlac Ltd cross-reference via search snippets.",
-  "lastAuditAt": "2026-09-24T08:00:00Z",
+  "lastAuditAt": "2026-09-25T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 30,
-  "auditNote": "No auto-fixes needed. All auto-fix categories clean: robots.txt, theme-color, canonical, meta descriptions, sitemap (64 entries with lastmod), em-dashes, banned filler. 46 how-to articles; 0 orphans; 0 broken links. Today's new article (new-hedge-establishment-margate) fully compliant. Needs review: 13 YouTube videos unverifiable via proxy (carry-over); 3 timing articles missing WCA 1981 callout (carry-over); 14 articles with leaked pipeline/infrastructure text — 5 newly confirmed (holly, pittosporum, lonicera-nitida, cotoneaster, feeding-hedges) plus the 9 from previous audit. Lower-priority carry-overs: 8 original articles with generic aggregate opener; 2 noindex redirect pages in sitemap. Full report: reports/2026-09-24-audit.md"
+  "issueCount": 31,
+  "auditNote": "No auto-fixes needed. All auto-fix categories clean: robots.txt, theme-color, canonical, meta descriptions, sitemap (65 entries with lastmod), em-dashes, banned filler. 47 how-to articles; 0 orphans; 0 broken links. Today's new article (hedge-arisings-disposal-margate) structurally compliant but sources paragraph contains leaked pipeline text (+1 new). Needs review: 13 YouTube video URLs unverifiable via proxy (carry-over); 3 timing articles missing WCA 1981 citation (carry-over); 15 articles with leaked pipeline/infrastructure text (3 in main body: pittosporum, rosa-rugosa, laurel). Lower-priority carry-overs: 8 pre-contract articles with generic opener; 2 noindex redirect stubs in sitemap. Full report: reports/2026-09-25-audit.md"
 }
