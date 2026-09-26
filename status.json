@@ -16,8 +16,8 @@
     "status.json"
   ],
   "note": "Winter hedge preparation article: six-step guide covering autumn cut timing (WCA 1981 nesting window, species exceptions), root zone mulching on CT9 chalk soil, temporary windbreak screening for frost-tender coastal species (griselinia, pittosporum, hebe), salt-spray damage assessment and treatment, and species-specific winter risk ranking for Thanet gardens. Story: Andy in Westgate-on-Sea, griselinia hedge damaged by Storm Ciarán. Source: RHS YouTube channel (authority heuristic; YouTube egress 403). Also merged 4 orphaned commits from detached HEAD onto main before content work.",
-  "lastAuditAt": "2026-09-25T08:00:00Z",
+  "lastAuditAt": "2026-09-26T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 31,
-  "auditNote": "See reports/2026-09-25-audit.md for carry-over issues. No auto-fixes applied this content run."
+  "issueCount": 29,
+  "auditNote": "All 29 issues carry over from 2026-09-25. No auto-fixes required. Today's new article (hedge-winter-care-salt-spray) passes all checks. Leaked text: 15 articles unchanged; sitemap redirect stubs: 2; WCA 1981 missing: 3; YouTube unverifiable: 14 URLs (env limitation); pre-contract story drift: 8. See reports/2026-09-26-audit.md."
 }
