@@ -1,22 +1,23 @@
 {
-  "run_date": "2026-09-20",
+  "run_date": "2026-09-26",
   "run_type": "nightly-content",
   "status": "success",
   "articles_shipped": 1,
   "slugs": [
-    "pleached-hedge-margate-privacy-screening"
+    "hedge-winter-care-salt-spray-margate"
   ],
-  "report": "reports/2026-09-20-content.md",
+  "report": "reports/2026-09-26-content.md",
   "files_modified": [
-    "how-to/pleached-hedge-margate-privacy-screening.html",
+    "how-to/hedge-winter-care-salt-spray-margate.html",
     "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-09-20-content.md",
+    "reports/2026-09-26-content.md",
+    "reports/status.json",
     "status.json"
   ],
-  "note": "Pleached hedge / hedge on stilts article: seven-step guide to creating and maintaining a pleached hornbeam screen, with coastal species comparison (hornbeam vs Portuguese laurel vs lime for CT8/CT9), framework construction, training sequence and WCA 1981 nesting-season clip timing. Source: Pots & Trowels YouTube channel, Martin Fish (RHS judge). YouTube direct fetch 403 as expected; authority confirmed via martinfish.com, genusgardenwear.com, Apple Podcasts and Darlac Ltd cross-reference via search snippets.",
+  "note": "Winter hedge preparation article: six-step guide covering autumn cut timing (WCA 1981 nesting window, species exceptions), root zone mulching on CT9 chalk soil, temporary windbreak screening for frost-tender coastal species (griselinia, pittosporum, hebe), salt-spray damage assessment and treatment, and species-specific winter risk ranking for Thanet gardens. Story: Andy in Westgate-on-Sea, griselinia hedge damaged by Storm Ciarán. Source: RHS YouTube channel (authority heuristic; YouTube egress 403). Also merged 4 orphaned commits from detached HEAD onto main before content work.",
   "lastAuditAt": "2026-09-25T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 31,
-  "auditNote": "No auto-fixes needed. All auto-fix categories clean: robots.txt, theme-color, canonical, meta descriptions, sitemap (65 entries with lastmod), em-dashes, banned filler. 47 how-to articles; 0 orphans; 0 broken links. Today's new article (hedge-arisings-disposal-margate) structurally compliant but sources paragraph contains leaked pipeline text (+1 new). Needs review: 13 YouTube video URLs unverifiable via proxy (carry-over); 3 timing articles missing WCA 1981 citation (carry-over); 15 articles with leaked pipeline/infrastructure text (3 in main body: pittosporum, rosa-rugosa, laurel). Lower-priority carry-overs: 8 pre-contract articles with generic opener; 2 noindex redirect stubs in sitemap. Full report: reports/2026-09-25-audit.md"
+  "auditNote": "See reports/2026-09-25-audit.md for carry-over issues. No auto-fixes applied this content run."
 }
