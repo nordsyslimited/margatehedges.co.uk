@@ -1,19 +1,19 @@
 {
-  "lastRun": "2026-09-26",
-  "articlesShipped": ["how-to/hedge-winter-care-salt-spray-margate.html"],
+  "lastRun": "2026-09-27",
+  "articlesShipped": ["how-to/hedge-drought-watering-margate.html"],
   "sources": [
     {
-      "url": "https://www.youtube.com/@RoyalHorticulturalSociety",
-      "title": "Winter hedge and shrub care guidance",
-      "channel": "RHS (Royal Horticultural Society)",
-      "published": "ongoing channel"
+      "url": "https://www.youtube.com/@GardenersWorld",
+      "title": "Gardeners' World 2026 Ep23: Drought Recovery, Autumn Prep & Container Harvests",
+      "channel": "BBC Gardeners' World",
+      "published": "2026, episode 23"
     }
   ],
   "filesModified": [
-    "how-to/hedge-winter-care-salt-spray-margate.html",
+    "how-to/hedge-drought-watering-margate.html",
     "how-to/index.html",
     "sitemap.xml",
-    "reports/2026-09-26-content.md",
+    "reports/2026-09-27-content.md",
     "reports/status.json"
   ]
 }
