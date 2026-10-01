@@ -15,8 +15,8 @@
     "status.json"
   ],
   "note": "Winter hedge preparation article: six-step guide covering autumn cut timing (WCA 1981 nesting window, species exceptions), root zone mulching on CT9 chalk soil, temporary windbreak screening for frost-tender coastal species (griselinia, pittosporum, hebe), salt-spray damage assessment and treatment, and species-specific winter risk ranking for Thanet gardens. Story: Andy in Westgate-on-Sea, griselinia hedge damaged by Storm Ciarán.",
-  "lastAuditAt": "2026-09-30T08:00:00Z",
+  "lastAuditAt": "2026-10-01T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 43,
-  "auditNote": "No auto-fixes required. -4 vs yesterday (recalibrated leaked-text count from 15 to 11 articles on re-audit). New bamboo article passes all checks clean: story-led (Palm Bay, Phyllostachys aurea rhizome dispute), WCA 1981 cited, flat Article JSON-LD, correct SEO, no watch?v= embed. Carry-forward: leaked text 11 articles; sitemap noindex stubs 2; wrong redirect 1; GA4 missing stubs 2; WCA 1981 thin 3; YouTube unverifiable 16 URLs; pre-contract story drift 8. See reports/2026-09-30-audit.md."
+  "auditNote": "No auto-fixes required. Unchanged total (leaked text -1 offset by +1 structural drift). Two new articles audited: notice-to-prune (passes all checks; composite opener borderline flagged) and dead-hedge (passes all checks cleanly: story-led, WCA 1981 cited, flat Article JSON-LD, comparison-table structure). Carry-forward: leaked text 10 articles; sitemap noindex stubs 2; wrong redirect 1; GA4 missing stubs 2; WCA 1981 thin 3; YouTube unverifiable 16 URLs; structural drift 9 (8 pre-contract + 1 notice-to-prune). See reports/2026-10-01-audit.md."
 }
