@@ -1,22 +1,11 @@
 {
-  "run_date": "2026-09-26",
-  "run_type": "nightly-content",
-  "status": "success",
-  "articles_shipped": 1,
-  "slugs": [
-    "hedge-winter-care-salt-spray-margate"
-  ],
-  "report": "reports/2026-09-26-content.md",
-  "files_modified": [
-    "how-to/hedge-winter-care-salt-spray-margate.html",
-    "how-to/index.html",
-    "sitemap.xml",
-    "reports/2026-09-26-content.md",
-    "status.json"
-  ],
-  "note": "Winter hedge preparation article: six-step guide covering autumn cut timing (WCA 1981 nesting window, species exceptions), root zone mulching on CT9 chalk soil, temporary windbreak screening for frost-tender coastal species (griselinia, pittosporum, hebe), salt-spray damage assessment and treatment, and species-specific winter risk ranking for Thanet gardens. Story: Andy in Westgate-on-Sea, griselinia hedge damaged by Storm Ciarán.",
-  "lastAuditAt": "2026-10-03T08:00:00Z",
+  "lastRun": "2026-10-04",
+  "runType": "nightly-content",
+  "articlesShipped": 1,
+  "slugs": ["hedge-width-reduction-margate"],
+  "status": "ok",
+  "lastAuditAt": "2026-10-04T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 43,
-  "auditNote": "No auto-fixes required. Total unchanged at 43. New article audited: hedgerow-management-regulations-2024-margate-kent (passes all checks cleanly: story-led Westgate-on-Sea agricultural opener, flat Article JSON-LD, numbered-steps structure, strong WCA 1981 treatment as primary structural element). Carry-forward: leaked text 10 articles; sitemap noindex stubs 2; wrong redirect 1; GA4 missing stubs 2; WCA 1981 thin 3; YouTube unverifiable 16 URLs; structural drift 9. See reports/2026-10-03-audit.md."
+  "issueCount": 44,
+  "auditNote": "No auto-fixes required. Total needs-review moves to 44 (+1). New article audited: hedge-width-reduction-margate (passes all checks cleanly: story-led Palm Bay Avenue privet/pavement obstruction opener, month-by-month calendar structure, flat Article JSON-LD, WCA 1981 explicit reference). +1: conifer-hedge-brown-patches aggregate opener (added 2026-10-02) caught this run and added to structural-angle drift carry-forward. Carry-forward: leaked text 10; sitemap noindex stubs 2; wrong redirect 1; GA4 missing stubs 2; WCA 1981 thin 3; YouTube unverifiable 16; structural drift 10. See reports/2026-10-04-audit.md."
 }
