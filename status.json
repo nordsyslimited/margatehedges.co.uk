@@ -1,22 +1,11 @@
 {
-  "run_date": "2026-09-26",
-  "run_type": "nightly-content",
-  "status": "success",
-  "articles_shipped": 1,
-  "slugs": [
-    "hedge-winter-care-salt-spray-margate"
-  ],
-  "report": "reports/2026-09-26-content.md",
-  "files_modified": [
-    "how-to/hedge-winter-care-salt-spray-margate.html",
-    "how-to/index.html",
-    "sitemap.xml",
-    "reports/2026-09-26-content.md",
-    "status.json"
-  ],
-  "note": "Winter hedge preparation article: six-step guide covering autumn cut timing (WCA 1981 nesting window, species exceptions), root zone mulching on CT9 chalk soil, temporary windbreak screening for frost-tender coastal species (griselinia, pittosporum, hebe), salt-spray damage assessment and treatment, and species-specific winter risk ranking for Thanet gardens. Story: Andy in Westgate-on-Sea, griselinia hedge damaged by Storm Ciarán.",
-  "lastAuditAt": "2026-09-30T08:00:00Z",
+  "lastRun": "2026-10-05",
+  "runType": "audit",
+  "articlesShipped": 0,
+  "slugs": [],
+  "status": "ok",
+  "lastAuditAt": "2026-10-05T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 43,
-  "auditNote": "No auto-fixes required. -4 vs yesterday (recalibrated leaked-text count from 15 to 11 articles on re-audit). New bamboo article passes all checks clean: story-led (Palm Bay, Phyllostachys aurea rhizome dispute), WCA 1981 cited, flat Article JSON-LD, correct SEO, no watch?v= embed. Carry-forward: leaked text 11 articles; sitemap noindex stubs 2; wrong redirect 1; GA4 missing stubs 2; WCA 1981 thin 3; YouTube unverifiable 16 URLs; pre-contract story drift 8. See reports/2026-09-30-audit.md."
+  "issueCount": 45,
+  "auditNote": "Auto-fixed: sitemap missing entries for services/hedge-planting.html and services/hedge-removal.html. All other checks clean: 58 how-to articles linked from index, zero broken internal links, all pages have SEO basics, all 58 JSON-LD articles use flat Article + Organization author, robots.txt complete, no em-dashes, no banned filler, all timing articles reference WCA 1981. Needs-review: YouTube unverifiable +1 to 17 (hedge-width-reduction GiyvKs4Ehws); carry-forward: leaked text 10; sitemap noindex stubs 2; wrong redirect 1; GA4 missing stubs 2; WCA 1981 thin 3; structural drift 10. See reports/2026-10-05-audit.md."
 }
