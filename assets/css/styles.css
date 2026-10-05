@@ -1,4 +1,4 @@
-/* margatehedges.co.uk — seaside-modern, art-deco-adjacent. Sun-bleached sand + teal + pier-red. */
+/* margatehedges.co.uk - seaside-modern, art-deco-adjacent. Sun-bleached sand + teal + pier-red. */
 :root {
   --bg: #f0e6d2;
   --surface: #faf5ea;
@@ -101,7 +101,7 @@ nav.primary a { color: var(--text); text-decoration: none; font-weight: 500; fon
 nav.primary a:hover { color: var(--accent-deep); }
 nav.primary a.active::after { content: ''; position: absolute; left: 0; right: 0; bottom: -0.4rem; height: 2px; background: var(--accent-alt); }
 
-/* Hero — art-deco-adjacent teal-to-deep gradient with sun disc glow + horizon wave line */
+/* Hero - art-deco-adjacent teal-to-deep gradient with sun disc glow + horizon wave line */
 .hero {
   background:
     radial-gradient(circle at 88% 22%, rgba(230,182,76,0.28) 0%, transparent 32%),

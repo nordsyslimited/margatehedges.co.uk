@@ -1,6 +1,6 @@
 # margatehedges.co.uk
 
-Local hedge-trimming site for Margate and the Thanet coast. Part of a 5-site Kent ring (Canterbury / Margate / Broadstairs / Thanet / Deal).
+Local hedge-trimming site for Margate and the Thanet coast.
 
 ## Stack
 Plain static HTML. No framework. No build step.

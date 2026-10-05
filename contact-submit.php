@@ -124,7 +124,7 @@ $plain = "New hedge enquiry, margatehedges.co.uk\n\n"
 // is verified as a sending domain. Once verified, switch `from` to
 // "Margate Hedges & Tree Services <hello@margatehedges.co.uk>" and `to` to
 // "hello@margatehedges.co.uk" (which will forward to
-// nordsyslimited@gmail.com via the cPanel forwarder).
+// the site owner's inbox via the cPanel forwarder).
 $payload = [
     'from'     => 'Margate Hedges <onboarding@resend.dev>',
     'to'       => ['bluebucketuk@gmail.com'],
