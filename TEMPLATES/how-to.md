@@ -1,5 +1,13 @@
 # Margate Hedges & Tree Services — how-to article template contract
 
+## Analytics, fonts and cookies (do not undo)
+
+- This site has NO Google Analytics, NO gtag or dataLayer snippet, NO Google Fonts links and NO cookie banner or cookie-consent script. They were removed deliberately on 8 October 2026. Do not add any of them back, on any page, template, generator or sample snippet, and do not add any other third-party script, font, image host or tracker.
+- Visit counting is NordAnalytics (first-party, cookieless). Every page loads `<script src="/assets/js/analytics.js?v=20261008" defer></script>` as the last element before `</body>`. That one file adds the footer links ("How we count visits", "Don't count my visits") and loads the counter. Copy the head, the footer and that script line from an existing page unchanged. Every new page must include it (redirect stubs with a meta refresh excepted).
+- Fonts are self-hosted: pages link `<link rel="stylesheet" href="/assets/fonts.css">` where a Google Fonts link used to be. Copy it from an existing page.
+- Audits: do NOT flag the absence of Google Analytics, a GA4 ID, gtag, consent mode or a cookie banner, and do NOT restore any of them. Older reports and notes that mention GA4 are out of date. DO flag and remove any page containing googletagmanager.com, gtag(, dataLayer, fonts.googleapis.com, fonts.gstatic.com or cookie-consent, and flag any non-redirect page missing the analytics.js script line.
+- `/privacy.html` carries the approved "Website statistics" section (id `website-statistics`). Keep its wording unchanged.
+
 > PUBLIC-COPY RULE (Richard, 2026-10-05) - OVERRIDES any older instruction below:
 > Never write NordSys or NordSys Limited on any public page, JSON-LD, meta, llms.txt or sitemap file.
 > Never write owner, founder, owned-by, run-by or operated-by statements, a company-ownership footer, or a surname-plus-company line.
@@ -103,13 +111,11 @@ That means, verbatim/unchanged from an existing article:
   `assets/img/og-default.png` unless a better topic-specific image exists),
   `og:image:width`/`height`, `og:title`, `og:description`, `og:url`,
   `meta name="robots" content="index,follow,max-image-preview:large"`
-- Google Fonts `<link>` block: Playfair Display 700 + Work Sans
+- self-hosted fonts (/assets/fonts.css) `<link>` block: Playfair Display 700 + Work Sans
   400/500/600 — do not add other weights or fonts
 - `<link rel="stylesheet" href="/assets/css/styles.css"/>`
 - The inline SVG data-URI favicon — copy verbatim, do not invent a new one
-- GA4 snippet with the real property ID `G-53100B6S34` (not the
-  `G-MARGATE-PLACEHOLDER` string mentioned in `README.md` — that placeholder
-  was superseded; every live page already carries the real ID) verbatim
+- Analytics: none from Google. NordAnalytics (first-party, cookieless) is loaded by `/assets/js/analytics.js`, included at the end of every page (see the rule at the top of this file).
 - Full topbar (`"Salt-hardened. Seaside-sharp."` strap, pensioner-discount
   badge, phone `07763 100 477`, WhatsApp button with the
   `wa.me/447763100477?text=From%20margatehedges.co.uk...` prefill, email
@@ -293,7 +299,7 @@ than generic hedge-care copy applicable to any UK town.
 ## Non-goals
 
 - No cookie banners.
-- No `<script>` tags beyond the GA4 gtag snippet and `assets/js/main.js` (if
+- No `<script>` tags beyond the NordAnalytics script line (/assets/js/analytics.js) and `assets/js/main.js` (if
   the reference article uses it).
 - No third-party embeds beyond a single YouTube iframe, if used.
 - No author bylines beyond `"Richard Lim"` in JSON-LD and the site's
