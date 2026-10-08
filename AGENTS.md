@@ -151,3 +151,7 @@ Summary for any hand edit:
   `assets/css/styles.css` as a silent side effect of a content commit — flag
   it in the run report instead; template-maintenance changes are deliberate
   and separate from nightly content shipping.
+
+## Source lines: no process wording (do not undo)
+
+Published source credits must read like an honest reference list, never like a description of how the page was produced. Never write any of these on a public page: "egress", "proxy", "blocked", "generation environment", "INGESTION.md", "AGENTS.md", "web search", "cross-referenced via", "confirmed to exist via". If a source could not be opened, simply leave it out of the list or cite a source you did read. The only acceptable wording is plain, e.g. "checked against current sources". Audits must flag and rewrite any page that contains these phrases.
