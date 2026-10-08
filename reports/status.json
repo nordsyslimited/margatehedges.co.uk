@@ -1,7 +1,8 @@
 {
-  "lastRun": "2026-10-05",
-  "runType": "nightly-content",
+  "lastRun": "2026-10-08",
+  "type": "nightly-content",
   "articlesShipped": 1,
-  "slugs": ["lavender-hedge-care-margate"],
-  "status": "ok"
+  "slugsShipped": ["choisya-hedge-care-margate"],
+  "status": "ok",
+  "notes": "YouTube direct access blocked (proxy); fell back to channel-authority heuristic per INGESTION.md. Video URL cited in article sources."
 }
