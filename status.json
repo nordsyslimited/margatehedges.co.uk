@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-08",
+  "lastRun": "2026-10-09",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-08T00:00:00Z",
+  "lastAuditAt": "2026-10-09T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 45,
-  "auditNote": "Auto-fixed: banned filler 'robust' x2 in choisya-hedge-care-margate.html (replaced with 'hardy' and 'resilient'). All other checks clean: 59 how-to articles linked from index, zero broken internal links, all pages have SEO basics, all 59 JSON-LD articles use flat Article + Organization author, robots.txt complete, no em-dashes, no remaining banned filler, all timing articles reference WCA 1981. choisya article (8 Oct nightly) story-led and WCA-compliant. Needs-review count unchanged at 45: YouTube unverifiable 17, leaked text 10, structural drift 10, WCA thin 3, sitemap noindex stubs 2, GA4 missing stubs 2, wrong redirect 1. See reports/2026-10-08-audit.md."
+  "issueCount": 52,
+  "auditNote": "Auto-fixed: sitemap.xml lastmod dates updated for 74 entries (all pages touched by NordAnalytics migration and source-line cleanup on 8 Oct now show 2026-10-08; how-to/index.html shows 2026-10-09). No em-dashes, no banned filler found. New article hedge-overhang-pavement-margate-highways-act.html passes all checks. Needs-review count: 52 (was 45). New: og:type missing on 6 service/tree pages; 3 articles linked 3x in how-to/index.html. Carry-forward: process wording in source lines (12 articles), YouTube unverifiable (17), jobs placeholder (1), wrong redirect (1), WCA thin (3), structural drift (10). See reports/2026-10-09-audit.md."
 }
