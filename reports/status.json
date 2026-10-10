@@ -1,7 +1,13 @@
 {
-  "lastRun": "2026-10-05",
-  "runType": "nightly-content",
-  "articlesShipped": 1,
-  "slugs": ["lavender-hedge-care-margate"],
+  "lastRun": "2026-10-10",
+  "articlesShipped": [
+    {
+      "date": "2026-10-10",
+      "slug": "how-to/aucuba-japonica-spotted-laurel-hedge-margate.html",
+      "title": "Aucuba japonica in Margate: the four decisions that keep a spotted laurel hedge in shape.",
+      "eyebrow": "Species & planting",
+      "structure": "decision-points"
+    }
+  ],
   "status": "ok"
 }
