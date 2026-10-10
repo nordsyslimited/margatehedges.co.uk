@@ -1,8 +1,13 @@
 {
-  "lastRun": "2026-10-09",
-  "type": "nightly-content",
-  "articlesShipped": 1,
-  "slugsShipped": ["hedge-overhang-pavement-margate-highways-act"],
-  "status": "ok",
-  "notes": "YouTube direct access blocked (proxy); fell back to channel-authority heuristic per INGESTION.md. Video URL cited in article sources."
+  "lastRun": "2026-10-10",
+  "articlesShipped": [
+    {
+      "date": "2026-10-10",
+      "slug": "how-to/aucuba-japonica-spotted-laurel-hedge-margate.html",
+      "title": "Aucuba japonica in Margate: the four decisions that keep a spotted laurel hedge in shape.",
+      "eyebrow": "Species & planting",
+      "structure": "decision-points"
+    }
+  ],
+  "status": "ok"
 }
