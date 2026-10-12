@@ -1,7 +1,13 @@
 {
-  "lastRun": "2026-10-05",
-  "runType": "nightly-content",
-  "articlesShipped": 1,
-  "slugs": ["lavender-hedge-care-margate"],
+  "lastRun": "2026-10-12",
+  "articlesShipped": [
+    {
+      "date": "2026-10-12",
+      "slug": "how-to/olearia-hedge-care-margate.html",
+      "title": "Olearia in Margate: the daisy-bush hedge for exposed seafront gardens, and when the alternatives win.",
+      "eyebrow": "Species & planting",
+      "structure": "comparison"
+    }
+  ],
   "status": "ok"
 }
