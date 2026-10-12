@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-11",
+  "lastRun": "2026-10-12",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-11T00:00:00Z",
+  "lastAuditAt": "2026-10-12T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 41,
-  "auditNote": "No auto-fixes this run. 2 new articles overnight (aucuba-japonica, cornus-sanguinea), both compliant. New finding: privacy.html retains NordSys Limited and 'operated by Richard Lim' (appears deliberate — commit b46af38 owner standing rule) — flagged for confirmation. Carry-forward: duplicate index entries (3), og:type missing on 6 tree pages, WCA 1981 missing from 6 articles, YouTube unverifiable (17), jobs placeholder (1), wrong redirect (1), structural drift (10). See reports/2026-10-11-audit.md."
+  "auditNote": "No auto-fixes this run. 1 new article overnight (olearia-hedge-care-margate), fully compliant. Carry-forward 41 items: privacy.html NordSys (1), duplicate index footer links (3), og:type missing on 6 tree pages (6), WCA 1981 missing (6), YouTube unverifiable (17), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift (10). See reports/2026-10-12-audit.md."
 }
