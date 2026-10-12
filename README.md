@@ -20,7 +20,7 @@ Plain static HTML. No framework. No build step.
 - **Tone:** confident, current, seaside-modern. Turner Contemporary + Dreamland proximity in the language.
 
 ## Analytics
-GA4 property placeholder: `G-MARGATE-PLACEHOLDER` on every page in the `<head>`. Swap for the real property ID at launch — single find/replace across the site.
+No Google Analytics. Visit counting is NordAnalytics (first-party, cookieless): `/assets/js/analytics.js`, included at the end of every page.
 
 ## Deploy
 TBC — Krystal cPanel FTPS via a dedicated `margatedeploy` FTP user (to be provisioned per the 3dbee UAPI pattern).

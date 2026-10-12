@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-05",
+  "lastRun": "2026-10-11",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-05T00:00:00Z",
+  "lastAuditAt": "2026-10-11T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 45,
-  "auditNote": "Auto-fixed: sitemap missing entries for services/hedge-planting.html and services/hedge-removal.html. All other checks clean: 58 how-to articles linked from index, zero broken internal links, all pages have SEO basics, all 58 JSON-LD articles use flat Article + Organization author, robots.txt complete, no em-dashes, no banned filler, all timing articles reference WCA 1981. Needs-review: YouTube unverifiable +1 to 17 (hedge-width-reduction GiyvKs4Ehws); carry-forward: leaked text 10; sitemap noindex stubs 2; wrong redirect 1; GA4 missing stubs 2; WCA 1981 thin 3; structural drift 10. See reports/2026-10-05-audit.md."
+  "issueCount": 41,
+  "auditNote": "No auto-fixes this run. 2 new articles overnight (aucuba-japonica, cornus-sanguinea), both compliant. New finding: privacy.html retains NordSys Limited and 'operated by Richard Lim' (appears deliberate — commit b46af38 owner standing rule) — flagged for confirmation. Carry-forward: duplicate index entries (3), og:type missing on 6 tree pages, WCA 1981 missing from 6 articles, YouTube unverifiable (17), jobs placeholder (1), wrong redirect (1), structural drift (10). See reports/2026-10-11-audit.md."
 }

@@ -1,5 +1,13 @@
 # Agent / Contributor Notes
 
+## Analytics, fonts and cookies (do not undo)
+
+- This site has NO Google Analytics, NO gtag or dataLayer snippet, NO Google Fonts links and NO cookie banner or cookie-consent script. They were removed deliberately on 8 October 2026. Do not add any of them back, on any page, template, generator or sample snippet, and do not add any other third-party script, font, image host or tracker.
+- Visit counting is NordAnalytics (first-party, cookieless). Every page loads `<script src="/assets/js/analytics.js?v=20261008" defer></script>` as the last element before `</body>`. That one file adds the footer links ("How we count visits", "Don't count my visits") and loads the counter. Copy the head, the footer and that script line from an existing page unchanged. Every new page must include it (redirect stubs with a meta refresh excepted).
+- Fonts are self-hosted: pages link `<link rel="stylesheet" href="/assets/fonts.css">` where a Google Fonts link used to be. Copy it from an existing page.
+- Audits: do NOT flag the absence of Google Analytics, a GA4 ID, gtag, consent mode or a cookie banner, and do NOT restore any of them. Older reports and notes that mention GA4 are out of date. DO flag and remove any page containing googletagmanager.com, gtag(, dataLayer, fonts.googleapis.com, fonts.gstatic.com or cookie-consent, and flag any non-redirect page missing the analytics.js script line.
+- `/privacy.html` carries the approved "Website statistics" section (id `website-statistics`). Keep its wording unchanged.
+
 > PUBLIC-COPY RULE (Richard, 2026-10-05) - OVERRIDES any older instruction below:
 > Never write NordSys or NordSys Limited on any public page, JSON-LD, meta, llms.txt or sitemap file.
 > Never write owner, founder, owned-by, run-by or operated-by statements, a company-ownership footer, or a surname-plus-company line.
@@ -51,7 +59,7 @@ this site and sandwichhedges.co.uk, for example).
   `#4a8b8f` (`--accent`), pier-red `#c94a3f` (`--accent-alt`), sun/gold
   `#e6b64c` (`--sun`). Full variable list in `assets/css/styles.css` `:root`.
 - Fonts: Playfair Display 700 (headings/brand/lede) + Work Sans 400/500/600
-  (body/UI), Google Fonts.
+  (body/UI), self-hosted fonts (/assets/fonts.css).
 - Logo/favicon: inline SVG data-URI (dark ink circle, gold sun, cream wave)
   — reuse verbatim, do not regenerate.
 - Strapline: "Salt-hardened. Seaside-sharp." — topbar and footer.
@@ -84,9 +92,7 @@ Every page must carry:
 - Open Graph (`og:type`, `og:image` + dimensions, `og:title`, `og:description`,
   `og:url`) + `meta name="robots"`.
 - `<html lang="en-GB">`.
-- GA4 tag `G-53100B6S34` (real property ID — the `G-MARGATE-PLACEHOLDER`
-  string in `README.md` is stale/superseded, every live page already
-  carries the real ID; don't "fix" pages back to the placeholder).
+- Analytics: none from Google. NordAnalytics (first-party, cookieless) is loaded by `/assets/js/analytics.js`, included at the end of every page (see the rule at the top of this file).
 - JSON-LD, per page type:
   - `how-to/*.html` articles: a flat `Article` object (not `@graph`, not
     `HowTo`) — see `TEMPLATES/how-to.md` §2 for the exact established shape.
@@ -132,7 +138,7 @@ Summary for any hand edit:
 
 - No frameworks (React, Vue, Tailwind, Next, etc.).
 - No build step. No npm dependencies.
-- No tracking scripts beyond the existing GA4 tag, without asking first.
+- No tracking scripts and no third-party fonts or images. Visit counting is the NordAnalytics script already on every page; do not add anything else.
 - No third-party chat widgets.
 - Do not clone another ring site's look or template file verbatim.
 - Do not add author bylines beyond `"Richard Lim"` (JSON-LD `author`) and
@@ -145,3 +151,7 @@ Summary for any hand edit:
   `assets/css/styles.css` as a silent side effect of a content commit — flag
   it in the run report instead; template-maintenance changes are deliberate
   and separate from nightly content shipping.
+
+## Source lines: no process wording (do not undo)
+
+Published source credits must read like an honest reference list, never like a description of how the page was produced. Never write any of these on a public page: "egress", "proxy", "blocked", "generation environment", "INGESTION.md", "AGENTS.md", "web search", "cross-referenced via", "confirmed to exist via". If a source could not be opened, simply leave it out of the list or cite a source you did read. The only acceptable wording is plain, e.g. "checked against current sources". Audits must flag and rewrite any page that contains these phrases.
