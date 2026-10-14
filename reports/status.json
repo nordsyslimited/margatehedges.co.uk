@@ -1,13 +1,13 @@
 {
-  "lastRun": "2026-10-13",
+  "lastRun": "2026-10-14",
   "articlesShipped": [
     {
-      "date": "2026-10-13",
-      "slug": "how-to/sea-buckthorn-hippophae-rhamnoides-hedge-margate.html",
-      "title": "Sea buckthorn in Margate: establishing the coastal hedge and controlling the suckers.",
-      "eyebrow": "Species & planting",
-      "structure": "numbered steps"
+      "slug": "hedge-storm-damage-margate",
+      "title": "Storm-Damaged Hedges on the Thanet Coast: Assessment and Recovery",
+      "eyebrow": "Seasonality",
+      "datePublished": "2026-10-14"
     }
   ],
-  "status": "ok"
+  "youtubeEgressAvailable": false,
+  "sourcesFallback": "RHS guidance and WCA 1981 (web sources, YouTube egress not available)"
 }
