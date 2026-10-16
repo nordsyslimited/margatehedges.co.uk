@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-12",
+  "lastRun": "2026-10-16",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-12T00:00:00Z",
+  "lastAuditAt": "2026-10-16T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 41,
-  "auditNote": "No auto-fixes this run. 1 new article overnight (olearia-hedge-care-margate), fully compliant. Carry-forward 41 items: privacy.html NordSys (1), duplicate index footer links (3), og:type missing on 6 tree pages (6), WCA 1981 missing (6), YouTube unverifiable (17), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift (10). See reports/2026-10-12-audit.md."
+  "issueCount": 42,
+  "auditNote": "No auto-fixes this run. 1 new article overnight (tamarisk-hedge-care-margate), fully compliant. No new needs-review items. 42 needs-review carry forward: privacy.html NordSys (1), duplicate index footer links (3), og:type missing on 6 tree pages (6), WCA 1981 missing (7), YouTube unverifiable (17), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift (10). See reports/2026-10-16-audit.md."
 }
