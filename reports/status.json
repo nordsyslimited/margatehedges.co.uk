@@ -1,13 +1,17 @@
 {
-  "lastRun": "2026-10-13",
+  "lastRun": "2026-10-17",
+  "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-10-13",
-      "slug": "how-to/sea-buckthorn-hippophae-rhamnoides-hedge-margate.html",
-      "title": "Sea buckthorn in Margate: establishing the coastal hedge and controlling the suckers.",
+      "date": "2026-10-17",
+      "slug": "rosemary-hedge-care-margate",
+      "url": "https://margatehedges.co.uk/how-to/rosemary-hedge-care-margate.html",
       "eyebrow": "Species & planting",
-      "structure": "numbered steps"
+      "sourceType": "written (RHS + Horticulture Magazine)",
+      "storyLedCompliance": true,
+      "postStoryStructure": "decision-points"
     }
   ],
+  "totalHowToArticles": 68,
   "status": "ok"
 }
