@@ -1,12 +1,15 @@
 {
-  "lastRun": "2026-10-13",
+  "lastRun": "2026-10-18",
+  "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-10-13",
-      "slug": "how-to/sea-buckthorn-hippophae-rhamnoides-hedge-margate.html",
-      "title": "Sea buckthorn in Margate: establishing the coastal hedge and controlling the suckers.",
-      "eyebrow": "Species & planting",
-      "structure": "numbered steps"
+      "date": "2026-10-18",
+      "slug": "hedge-hardwood-cuttings-margate",
+      "url": "https://margatehedges.co.uk/how-to/hedge-hardwood-cuttings-margate.html",
+      "eyebrow": "Seasonality",
+      "sourceType": "written (BBC Gardeners' World + Ashridge Trees)",
+      "storyLedCompliance": true,
+      "postStoryStructure": "numbered-steps"
     }
   ],
   "status": "ok"
