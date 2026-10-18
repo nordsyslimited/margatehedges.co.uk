@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-12",
+  "lastRun": "2026-10-17",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-12T00:00:00Z",
+  "lastAuditAt": "2026-10-17T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 41,
-  "auditNote": "No auto-fixes this run. 1 new article overnight (olearia-hedge-care-margate), fully compliant. Carry-forward 41 items: privacy.html NordSys (1), duplicate index footer links (3), og:type missing on 6 tree pages (6), WCA 1981 missing (6), YouTube unverifiable (17), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift (10). See reports/2026-10-12-audit.md."
+  "issueCount": 43,
+  "auditNote": "No auto-fixes this run. 1 new article overnight (rosemary-hedge-care-margate), fully compliant. 1 new needs-review item: &amp; entity in JSON-LD script blocks on 5 articles (conifer-brown-patches, hedge-nesting-season desc, hedge-width-reduction, hedgerow-management-2024, tamarisk). 43 needs-review total: privacy.html NordSys (1), duplicate index footer links (3), og:type missing on 6 tree pages (6), WCA 1981 missing (7), YouTube unverifiable (17), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift (10), JSON-LD &amp; entity (1 new). See reports/2026-10-17-audit.md."
 }
