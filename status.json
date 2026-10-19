@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-12",
+  "lastRun": "2026-10-18",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-12T00:00:00Z",
+  "lastAuditAt": "2026-10-18T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 41,
-  "auditNote": "No auto-fixes this run. 1 new article overnight (olearia-hedge-care-margate), fully compliant. Carry-forward 41 items: privacy.html NordSys (1), duplicate index footer links (3), og:type missing on 6 tree pages (6), WCA 1981 missing (6), YouTube unverifiable (17), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift (10). See reports/2026-10-12-audit.md."
+  "issueCount": 44,
+  "auditNote": "1 auto-fix: banned filler 'robust' in hedge-hardwood-cuttings (replaced with 'sturdy'). 2 new articles compliant (received-section-154, hedge-hardwood-cuttings). 1 new needs-review: BreadcrumbList JSON-LD block on received-section-154 (template deviation). 44 needs-review total: privacy.html NordSys (1), duplicate index footer links (3), og:type missing on 6 tree pages (6), WCA 1981 missing (7), YouTube unverifiable (17), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift (10), JSON-LD &amp; entity (5 articles, 1 group), BreadcrumbList on section-154 (1 new). See reports/2026-10-18-audit.md."
 }
