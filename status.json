@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-18",
+  "lastRun": "2026-10-19",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-18T00:00:00Z",
+  "lastAuditAt": "2026-10-19T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 44,
-  "auditNote": "1 auto-fix: banned filler 'robust' in hedge-hardwood-cuttings (replaced with 'sturdy'). 2 new articles compliant (received-section-154, hedge-hardwood-cuttings). 1 new needs-review: BreadcrumbList JSON-LD block on received-section-154 (template deviation). 44 needs-review total: privacy.html NordSys (1), duplicate index footer links (3), og:type missing on 6 tree pages (6), WCA 1981 missing (7), YouTube unverifiable (17), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift (10), JSON-LD &amp; entity (5 articles, 1 group), BreadcrumbList on section-154 (1 new). See reports/2026-10-18-audit.md."
+  "auditNote": "3 auto-fixes: banned filler 'leverage' in hedge-storm-damage (replaced 'mechanical forces'); 3x double-hyphen em-dash substitutes in bay-laurel article (replaced with parentheses); 73 stale sitemap lastmod dates updated to git log dates. 1 new article compliant (bay-laurel). 44 needs-review carry-forward: privacy.html NordSys (1), duplicate index footer links (3 noted only), og:type missing 6 tree pages (6), WCA 1981 missing (7), YouTube unverifiable (17), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift (10), HTML entity in JSON-LD (5), BreadcrumbList on section-154 (1). See reports/2026-10-19-audit.md."
 }
