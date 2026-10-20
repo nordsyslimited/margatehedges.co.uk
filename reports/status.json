@@ -1,17 +1,17 @@
 {
-  "lastRun": "2026-10-19",
+  "lastRun": "2026-10-20",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-10-19",
-      "slug": "bay-laurel-laurus-nobilis-hedge-margate",
-      "url": "https://margatehedges.co.uk/how-to/bay-laurel-laurus-nobilis-hedge-margate.html",
+      "date": "2026-10-20",
+      "slug": "hedge-pests-aphids-scale-margate",
+      "url": "https://margatehedges.co.uk/how-to/hedge-pests-aphids-scale-margate.html",
       "eyebrow": "Species & planting",
-      "sourceType": "written (RHS rhs.org.uk)",
+      "sourceType": "written (BBC Gardeners' World; RHS)",
       "storyLedCompliance": true,
-      "postStoryStructure": "numbered-steps"
+      "postStoryStructure": "decision-points"
     }
   ],
-  "totalHowToArticles": 71,
+  "totalHowToArticles": 72,
   "status": "ok"
 }
