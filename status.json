@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-19",
+  "lastRun": "2026-10-20",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-19T00:00:00Z",
+  "lastAuditAt": "2026-10-20T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 44,
-  "auditNote": "3 auto-fixes: banned filler 'leverage' in hedge-storm-damage (replaced 'mechanical forces'); 3x double-hyphen em-dash substitutes in bay-laurel article (replaced with parentheses); 73 stale sitemap lastmod dates updated to git log dates. 1 new article compliant (bay-laurel). 44 needs-review carry-forward: privacy.html NordSys (1), duplicate index footer links (3 noted only), og:type missing 6 tree pages (6), WCA 1981 missing (7), YouTube unverifiable (17), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift (10), HTML entity in JSON-LD (5), BreadcrumbList on section-154 (1). See reports/2026-10-19-audit.md."
+  "issueCount": 26,
+  "auditNote": "0 auto-fixes (all auto-fix dimensions clean). 1 new article compliant (hedge-pests-aphids-scale). WCA 1981 carry-forward resolved: today's broader grep finds 0 missing (down from 7). YouTube count corrected: 1 article (bamboo), 2 channel text-links, not 17. 26 needs-review: privacy.html NordSys (1), og:type missing 6 tree pages (6), HTML entity in JSON-LD (5), structural drift ~10 articles (10), BreadcrumbList on section-154 (1), jobs placeholder (1), wrong redirect hedge-planting (1), bamboo YouTube channel links (1), duplicate index footer links (3 noted only). See reports/2026-10-20-audit.md."
 }
