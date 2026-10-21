@@ -1,17 +1,17 @@
 {
-  "lastRun": "2026-10-20",
+  "lastRun": "2026-10-21",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-10-20",
-      "slug": "hedge-pests-aphids-scale-margate",
-      "url": "https://margatehedges.co.uk/how-to/hedge-pests-aphids-scale-margate.html",
+      "date": "2026-10-21",
+      "slug": "rosa-canina-dog-rose-hedge-margate",
+      "url": "https://margatehedges.co.uk/how-to/rosa-canina-dog-rose-hedge-margate.html",
       "eyebrow": "Species & planting",
-      "sourceType": "written (BBC Gardeners' World; RHS)",
+      "sourceType": "written (RHS; Ashridge Trees; RSPB)",
       "storyLedCompliance": true,
       "postStoryStructure": "decision-points"
     }
   ],
-  "totalHowToArticles": 72,
+  "totalHowToArticles": 73,
   "status": "ok"
 }
