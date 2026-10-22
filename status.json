@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-21",
+  "lastRun": "2026-10-22",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-21T06:00:00Z",
+  "lastAuditAt": "2026-10-22T06:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 25,
-  "auditNote": "1 auto-fix: sitemap /how-to/ lastmod updated to 2026-10-21. 1 new article compliant (rosa-canina-dog-rose). 25 needs-review carry-forwards: privacy.html NordSys (1), og:type missing 6 tree pages (6), HTML entity in JSON-LD (5), BreadcrumbList on section-154 (1), jobs placeholder (1), wrong redirect hedge-planting (1), structural drift ~10 articles (10), duplicate index card pattern (noted), bamboo YouTube links (noted). See reports/2026-10-21-audit.md."
+  "issueCount": 9,
+  "auditNote": "1 auto-fix: sitemap how-to/ lastmod updated to 2026-10-22. 9 needs-review carry-forwards: JSON-LD HTML entities 6 files (honey-fungus new today), BreadcrumbList on section-154, og:type missing 6 tree pages, privacy.html NordSys, jobs placeholder, wrong redirect hedge-planting, 3 duplicate index cards, structural drift ~10 articles. See reports/2026-10-22-audit.md."
 }
