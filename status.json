@@ -4,8 +4,8 @@
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-22T06:00:00Z",
+  "lastAuditAt": "2026-10-23T06:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 9,
-  "auditNote": "1 auto-fix: sitemap how-to/ lastmod updated to 2026-10-22. 9 needs-review carry-forwards: JSON-LD HTML entities 6 files (honey-fungus new today), BreadcrumbList on section-154, og:type missing 6 tree pages, privacy.html NordSys, jobs placeholder, wrong redirect hedge-planting, 3 duplicate index cards, structural drift ~10 articles. See reports/2026-10-22-audit.md."
+  "issueCount": 8,
+  "auditNote": "1 auto-fix: sitemap how-to/ lastmod updated to 2026-10-23. 8 needs-review carry-forwards: JSON-LD HTML entities now 7 files (fuchsia new today), BreadcrumbList on section-154, og:type missing 6 tree pages, privacy.html NordSys, jobs placeholder, wrong redirect hedge-planting, 3 duplicate index cards, structural drift ~10 articles. See reports/2026-10-23-audit.md."
 }
