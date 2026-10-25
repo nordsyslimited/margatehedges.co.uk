@@ -1,17 +1,17 @@
 {
-  "lastRun": "2026-10-24",
+  "lastRun": "2026-10-25",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-10-24",
-      "slug": "beech-vs-hornbeam-hedge-margate",
-      "url": "https://margatehedges.co.uk/how-to/beech-vs-hornbeam-hedge-margate.html",
+      "date": "2026-10-25",
+      "slug": "prunus-lusitanica-portuguese-laurel-hedge-margate",
+      "url": "https://margatehedges.co.uk/how-to/prunus-lusitanica-portuguese-laurel-hedge-margate.html",
       "eyebrow": "Species & planting",
-      "sourceType": "written (RHS rhs.org.uk, Ashridge Trees ashridgetrees.co.uk, Hedging Plants Direct hedgingplantsdirect.co.uk)",
+      "sourceType": "written (RHS rhs.org.uk, hedging.co.uk)",
       "storyLedCompliance": true,
-      "postStoryStructure": "comparison"
+      "postStoryStructure": "numbered steps"
     }
   ],
-  "totalHowToArticles": 76,
+  "totalHowToArticles": 77,
   "status": "ok"
 }
