@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-24",
+  "lastRun": "2026-10-25",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-24T06:00:00Z",
+  "lastAuditAt": "2026-10-25T06:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "auditNote": "2 auto-fixes: sitemap lastmod for how-to/ (→2026-10-24) and hedge-storm-damage (→2026-10-19). 6 needs-review: WCA 1981 missing from 7 timing articles (new), JSON-LD HTML entities 7 files, og:type missing 6 tree pages, privacy.html NordSys, section-154 non-standard JSON-LD, hedge-planting redirect destination. Duplicate index cards resolved. See reports/2026-10-24-audit.md."
+  "issueCount": 3,
+  "auditNote": "1 auto-fix: sitemap lastmod for how-to/ corrected to 2026-10-25. 3 needs-review (all persistent): privacy.html NordSys Limited and Richard Lim (public-copy rule violation); services/tree pages missing og:type/title/description/url; non-how-to pages missing og:title/description/url. All 13 passing checks green. See reports/2026-10-25-audit.md."
 }
