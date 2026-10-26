@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-22",
+  "lastRun": "2026-10-25",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-23T06:00:00Z",
+  "lastAuditAt": "2026-10-25T06:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 8,
-  "auditNote": "1 auto-fix: sitemap how-to/ lastmod updated to 2026-10-23. 8 needs-review carry-forwards: JSON-LD HTML entities now 7 files (fuchsia new today), BreadcrumbList on section-154, og:type missing 6 tree pages, privacy.html NordSys, jobs placeholder, wrong redirect hedge-planting, 3 duplicate index cards, structural drift ~10 articles. See reports/2026-10-23-audit.md."
+  "issueCount": 3,
+  "auditNote": "1 auto-fix: sitemap lastmod for how-to/ corrected to 2026-10-25. 3 needs-review (all persistent): privacy.html NordSys Limited and Richard Lim (public-copy rule violation); services/tree pages missing og:type/title/description/url; non-how-to pages missing og:title/description/url. All 13 passing checks green. See reports/2026-10-25-audit.md."
 }
