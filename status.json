@@ -4,8 +4,8 @@
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-25T06:00:00Z",
+  "lastAuditAt": "2026-10-26T06:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 3,
-  "auditNote": "1 auto-fix: sitemap lastmod for how-to/ corrected to 2026-10-25. 3 needs-review (all persistent): privacy.html NordSys Limited and Richard Lim (public-copy rule violation); services/tree pages missing og:type/title/description/url; non-how-to pages missing og:title/description/url. All 13 passing checks green. See reports/2026-10-25-audit.md."
+  "issueCount": 4,
+  "auditNote": "0 auto-fixes. 4 needs-review: privacy.html NordSys/Richard Lim (persistent); services/tree og: tags missing (persistent); about/contact/services og: incomplete (persistent); 6 articles lack story-led opening (new). All 15 checks green or flagged. See reports/2026-10-26-audit.md."
 }
