@@ -1,17 +1,17 @@
 {
-  "lastRun": "2026-10-23",
+  "lastRun": "2026-10-26",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-10-23",
-      "slug": "fuchsia-magellanica-hedge-margate",
-      "url": "https://margatehedges.co.uk/how-to/fuchsia-magellanica-hedge-margate.html",
-      "eyebrow": "Species & planting",
-      "sourceType": "written (RHS rhs.org.uk)",
+      "date": "2026-10-26",
+      "slug": "hedge-renovation-neglected-margate",
+      "url": "https://margatehedges.co.uk/how-to/hedge-renovation-neglected-margate.html",
+      "eyebrow": "Reductions & renovation",
+      "sourceType": "written (RHS rhs.org.uk, Ashridge Trees ashridgetrees.co.uk)",
       "storyLedCompliance": true,
-      "postStoryStructure": "calendar"
+      "postStoryStructure": "year-by-year calendar with decision points"
     }
   ],
-  "totalHowToArticles": 75,
+  "totalHowToArticles": 76,
   "status": "ok"
 }
