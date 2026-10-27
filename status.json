@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-25",
+  "lastRun": "2026-10-27",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-26T06:00:00Z",
+  "lastAuditAt": "2026-10-27T08:30:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "auditNote": "0 auto-fixes. 4 needs-review: privacy.html NordSys/Richard Lim (persistent); services/tree og: tags missing (persistent); about/contact/services og: incomplete (persistent); 6 articles lack story-led opening (new). All 15 checks green or flagged. See reports/2026-10-26-audit.md."
+  "issueCount": 2,
+  "auditNote": "0 auto-fixes. 2 needs-review: privacy.html NordSys/Richard Lim (persistent); OG tags incomplete on 16 secondary pages (persistent, expanded from prior audit). Story-led 6 articles resolved. See reports/2026-10-27-audit.md."
 }
