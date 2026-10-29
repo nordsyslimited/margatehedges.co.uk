@@ -4,8 +4,8 @@
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-27T08:30:00Z",
+  "lastAuditAt": "2026-10-28T06:00:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "auditNote": "0 auto-fixes. 2 needs-review: privacy.html NordSys/Richard Lim (persistent); OG tags incomplete on 16 secondary pages (persistent, expanded from prior audit). Story-led 6 articles resolved. See reports/2026-10-27-audit.md."
+  "auditNote": "0 auto-fixes. 2 needs-review: privacy.html NordSys/Richard Lim (persistent); OG tags incomplete on 17 secondary pages (persistent; og:title, og:description, og:url missing; services/tree/* also missing og:type). 80 articles, all linked, no orphans. See reports/2026-10-28-audit.md."
 }
