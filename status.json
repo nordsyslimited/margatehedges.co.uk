@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-27",
+  "lastRun": "2026-10-29",
   "runType": "audit",
   "articlesShipped": 0,
   "slugs": [],
   "status": "ok",
-  "lastAuditAt": "2026-10-28T06:00:00Z",
+  "lastAuditAt": "2026-10-29T06:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "auditNote": "0 auto-fixes. 2 needs-review: privacy.html NordSys/Richard Lim (persistent); OG tags incomplete on 17 secondary pages (persistent; og:title, og:description, og:url missing; services/tree/* also missing og:type). 80 articles, all linked, no orphans. See reports/2026-10-28-audit.md."
+  "issueCount": 6,
+  "auditNote": "1 auto-fix: 2 missing sitemap entries (services/hedge-planting, services/hedge-removal). 6 needs-review: index triple-links on 3 articles; BreadcrumbList JSON-LD in received-section-154 article; privacy.html NordSys/Richard Lim (persistent); OG tags incomplete on 19 pages (persistent); YouTube citation in bamboo article (no embed). See reports/2026-10-29-audit.md."
 }
