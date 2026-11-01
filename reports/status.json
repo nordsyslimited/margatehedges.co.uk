@@ -1,17 +1,17 @@
 {
-  "lastRun": "2026-10-31",
+  "lastRun": "2026-11-01",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-10-31",
-      "slug": "sambucus-nigra-elder-hedge-margate",
-      "url": "https://margatehedges.co.uk/how-to/sambucus-nigra-elder-hedge-margate.html",
+      "date": "2026-11-01",
+      "slug": "ceanothus-hedge-margate",
+      "url": "https://margatehedges.co.uk/how-to/ceanothus-hedge-margate.html",
       "eyebrow": "Species & planting",
-      "sourceType": "written (RHS rhs.org.uk/plants/sambucus/growing-guide; Gardeners' World gardenersworld.com; Ashridge Trees ashridgetrees.co.uk)",
+      "sourceType": "written (RHS rhs.org.uk/plants/ceanothus/growing-guide; Gardeners' World gardenersworld.com/how-to/grow-plants/how-to-grow-ceanothus)",
       "storyLedCompliance": true,
-      "postStoryStructure": "seasonal-calendar"
+      "postStoryStructure": "numbered-steps"
     }
   ],
-  "totalHowToArticles": 83,
+  "totalHowToArticles": 84,
   "status": "ok"
 }

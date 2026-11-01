@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-31",
+  "lastRun": "2026-11-01",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugs": ["sambucus-nigra-elder-hedge-margate"],
+  "slugs": ["ceanothus-hedge-margate"],
   "status": "ok",
   "lastAuditAt": "2026-10-31T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "auditNote": "Carry-forward from 2026-10-30: 5 persistent needs-review items (index triple-links on 3 articles; BreadcrumbList+FAQPage in received-section-154; privacy.html NordSys/Richard Lim; OG tags on 15 non-how-to pages; YouTube citation in bamboo article). Today's article (sambucus-nigra-elder-hedge-margate.html) passes all checks. No auto-fixes needed. See reports/2026-10-31-audit.md."
+  "auditNote": "Carry-forward from 2026-10-31: 5 persistent needs-review items (index triple-links on 3 articles; BreadcrumbList+FAQPage in received-section-154; privacy.html NordSys/Richard Lim; OG tags on 15 non-how-to pages; YouTube citation in bamboo article). Today's article (ceanothus-hedge-margate.html) passes all checks. No auto-fixes needed. See reports/2026-11-01-content.md."
 }
