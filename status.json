@@ -4,8 +4,8 @@
   "articlesShipped": 1,
   "slugs": ["ceanothus-hedge-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-10-31T08:00:00Z",
+  "lastAuditAt": "2026-11-01T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "auditNote": "Carry-forward from 2026-10-31: 5 persistent needs-review items (index triple-links on 3 articles; BreadcrumbList+FAQPage in received-section-154; privacy.html NordSys/Richard Lim; OG tags on 15 non-how-to pages; YouTube citation in bamboo article). Today's article (ceanothus-hedge-margate.html) passes all checks. No auto-fixes needed. See reports/2026-11-01-content.md."
+  "issueCount": 6,
+  "auditNote": "6 needs-review items: 4 carry-forwards (index triple-links on 3 articles; BreadcrumbList in received-section-154; privacy.html NordSys/Richard Lim; OG tags on 15 non-how-to pages) + 2 new (7 articles missing title suffix '| Margate Hedges & Tree Services'; staged-hedge-reduction and formal-hedges-cliftonville lack explicit WCA 1981 citation). No auto-fixes applied. Bamboo YouTube citation resolved (properly attributed). See reports/2026-11-01-audit.md."
 }
