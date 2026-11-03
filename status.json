@@ -4,8 +4,8 @@
   "articlesShipped": 1,
   "slugs": ["ceanothus-hedge-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-02T08:36:49Z",
+  "lastAuditAt": "2026-11-03T09:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "auditNote": "5 needs-review items: duplicate cards in how-to/index.html (3 articles ×3, all others ×2); BreadcrumbList in received-section-154 article JSON-LD; NordSys/Richard Lim in privacy.html; WCA 1981 missing from formal-hedges-cliftonville and staged-hedge-reduction; OG tags incomplete on 15 non-how-to pages. Auto-fixed: title suffix added to 7 how-to pages; sitemap lastmod updated for those 7. See reports/2026-11-02-audit.md."
+  "auditNote": "5 needs-review items (all persistent): NordSys/Richard Lim in privacy.html; BreadcrumbList in received-section-154 article JSON-LD; formal-hedges-cliftonville missing WCA 1981 citation and story-led opening; staged-hedge-reduction missing explicit WCA 1981 citation; 13 non-how-to pages missing og:title/og:description/og:url. Auto-fixed: nothing (all auto-fix criteria passed). See reports/2026-11-03-audit.md."
 }
