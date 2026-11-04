@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-30",
-  "runType": "audit",
-  "articlesShipped": 0,
-  "slugs": [],
+  "lastRun": "2026-11-02",
+  "runType": "nightly-content",
+  "articlesShipped": 1,
+  "slugs": ["ceanothus-hedge-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-10-30T08:28:00Z",
+  "lastAuditAt": "2026-11-03T09:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "auditNote": "0 auto-fixes. 5 needs-review (all persistent): index triple-links on 3 articles; BreadcrumbList+FAQPage JSON-LD in received-section-154 article; privacy.html NordSys/Richard Lim; OG tags incomplete on 14 non-how-to pages; YouTube citation in bamboo article. Today's article (box-hedge-alternatives-margate.html) passes all checks. See reports/2026-10-30-audit.md."
+  "auditNote": "5 needs-review items (all persistent): NordSys/Richard Lim in privacy.html; BreadcrumbList in received-section-154 article JSON-LD; formal-hedges-cliftonville missing WCA 1981 citation and story-led opening; staged-hedge-reduction missing explicit WCA 1981 citation; 13 non-how-to pages missing og:title/og:description/og:url. Auto-fixed: nothing (all auto-fix criteria passed). See reports/2026-11-03-audit.md."
 }
