@@ -10,6 +10,10 @@
       "postStoryShape": "decision-points"
     }
   ],
-  "totalHowToArticles": 86,
-  "lastReport": "reports/2026-11-05-content.md"
+  "totalHowToArticles": 88,
+  "lastReport": "reports/2026-11-05-content.md",
+  "lastAuditAt": "2026-11-05T07:00:00Z",
+  "auditStatus": "issues",
+  "issueCount": 5,
+  "note": "5 needs-review items carried from previous audits; 0 auto-fixes; copper-beech article passes all checks. Issues: privacy.html NordSys/name disclosure; received-section-154 BreadcrumbList JSON-LD; formal-hedges WCA+story drift; staged-hedge-reduction WCA citation; 13 pages missing OG tags."
 }
