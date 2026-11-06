@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-02",
+  "lastRun": "2026-11-06",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugs": ["ceanothus-hedge-margate"],
+  "slugs": ["persistent-weeds-hedge-base-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-04T09:00:00Z",
+  "lastAuditAt": "2026-11-05T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "5 needs-review items (all persistent): NordSys/Richard Lim in privacy.html; BreadcrumbList in received-section-154 article JSON-LD; formal-hedges-cliftonville missing explicit WCA 1981 citation and story-led opening; staged-hedge-reduction missing explicit WCA 1981 citation; 13 content pages missing og:title/og:description/og:url. Auto-fixed: sitemap merge conflict (conflict markers left by merge commit a5488b5, resolved keeping prunus-cerasifera entry); main branch fast-forwarded (10 nightly commits were on detached HEAD, not pushed). See reports/2026-11-04-audit.md."
+  "note": "5 needs-review items (all persistent): NordSys/Richard Lim in privacy.html; BreadcrumbList in received-section-154 article JSON-LD; formal-hedges-cliftonville missing explicit WCA 1981 citation and story-led opening; staged-hedge-reduction missing explicit WCA 1981 citation; 13 content pages missing og:title/og:description/og:url. See reports/2026-11-06-content.md."
 }

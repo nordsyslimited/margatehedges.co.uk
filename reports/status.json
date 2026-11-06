@@ -1,19 +1,19 @@
 {
-  "lastRun": "2026-11-05",
+  "lastRun": "2026-11-06",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "slug": "copper-beech-hedge-margate",
-      "url": "https://margatehedges.co.uk/how-to/copper-beech-hedge-margate.html",
-      "datePublished": "2026-11-05",
-      "eyebrow": "Species & planting",
-      "postStoryShape": "decision-points"
+      "slug": "persistent-weeds-hedge-base-margate",
+      "url": "https://margatehedges.co.uk/how-to/persistent-weeds-hedge-base-margate.html",
+      "datePublished": "2026-11-06",
+      "eyebrow": "Reductions & renovation",
+      "postStoryShape": "calendar"
     }
   ],
-  "totalHowToArticles": 88,
-  "lastReport": "reports/2026-11-05-content.md",
+  "totalHowToArticles": 89,
+  "lastReport": "reports/2026-11-06-content.md",
   "lastAuditAt": "2026-11-05T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "5 needs-review items carried from previous audits; 0 auto-fixes; copper-beech article passes all checks. Issues: privacy.html NordSys/name disclosure; received-section-154 BreadcrumbList JSON-LD; formal-hedges WCA+story drift; staged-hedge-reduction WCA citation; 13 pages missing OG tags."
+  "note": "5 needs-review items carried from previous audits; 0 auto-fixes; persistent-weeds article passes all checks. Issues: privacy.html NordSys/name disclosure; received-section-154 BreadcrumbList JSON-LD; formal-hedges WCA+story drift; staged-hedge-reduction WCA citation; 13 pages missing OG tags."
 }
