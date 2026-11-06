@@ -4,8 +4,8 @@
   "articlesShipped": 1,
   "slugs": ["persistent-weeds-hedge-base-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-05T07:00:00Z",
+  "lastAuditAt": "2026-11-06T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "5 needs-review items (all persistent): NordSys/Richard Lim in privacy.html; BreadcrumbList in received-section-154 article JSON-LD; formal-hedges-cliftonville missing explicit WCA 1981 citation and story-led opening; staged-hedge-reduction missing explicit WCA 1981 citation; 13 content pages missing og:title/og:description/og:url. See reports/2026-11-06-content.md."
+  "note": "5 needs-review items (all persistent): NordSys/Richard Lim in privacy.html; BreadcrumbList in received-section-154 article JSON-LD; formal-hedges-cliftonville missing story-led opening; staged-hedge-reduction missing explicit WCA 1981 citation; 15 non-article pages missing og:title/og:description/og:url. Auto-fixed: removed 2 noindex redirect stubs (services/hedge-planting.html, services/hedge-removal.html) from sitemap.xml."
 }
