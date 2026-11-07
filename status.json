@@ -4,8 +4,8 @@
   "articlesShipped": 1,
   "slugs": ["persistent-weeds-hedge-base-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-06T07:00:00Z",
+  "lastAuditAt": "2026-11-07T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "5 needs-review items (all persistent): NordSys/Richard Lim in privacy.html; BreadcrumbList in received-section-154 article JSON-LD; formal-hedges-cliftonville missing story-led opening; staged-hedge-reduction missing explicit WCA 1981 citation; 15 non-article pages missing og:title/og:description/og:url. Auto-fixed: removed 2 noindex redirect stubs (services/hedge-planting.html, services/hedge-removal.html) from sitemap.xml."
+  "issueCount": 10,
+  "note": "10 needs-review items. Persistent: NordSys/Richard Lim in privacy.html; BreadcrumbList in received-section-154 JSON-LD; formal-hedges-cliftonville missing story-led opening; staged-hedge-reduction missing WCA 1981; 19 non-article pages missing og: tags. New: WCA 1981 citation missing from 5 further timing articles (conifer-hedge-brown-patches, high-hedges-neighbour-law, holiday-let-hedge-maintenance, margate-conservation-areas, salt-tolerant-hedges). No auto-fixes applied; all auto-fixable items clean. New mahonia article (7 Nov) passes all P1 checks."
 }
