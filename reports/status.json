@@ -1,19 +1,6 @@
 {
-  "lastRun": "2026-11-07",
+  "lastRun": "2026-11-08",
   "lastRunType": "nightly-content",
-  "articlesShipped": [
-    {
-      "slug": "mahonia-aquifolium-hedge-margate",
-      "url": "https://margatehedges.co.uk/how-to/mahonia-aquifolium-hedge-margate.html",
-      "datePublished": "2026-11-07",
-      "eyebrow": "Species & planting",
-      "postStoryShape": "numbered-steps"
-    }
-  ],
-  "totalHowToArticles": 90,
-  "lastReport": "reports/2026-11-07-content.md",
-  "lastAuditAt": "2026-11-05T07:00:00Z",
-  "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "5 needs-review items carried from previous audits; 0 auto-fixes; mahonia-aquifolium article passes all checks. Issues: privacy.html NordSys/name disclosure; received-section-154 BreadcrumbList JSON-LD; formal-hedges WCA+story drift; staged-hedge-reduction WCA citation; 13 pages missing OG tags."
+  "articlesShipped": ["how-to/boundary-hedge-ownership-margate.html"],
+  "status": "ok"
 }
