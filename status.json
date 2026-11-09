@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-06",
+  "lastRun": "2026-11-09",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugs": ["persistent-weeds-hedge-base-margate"],
+  "slugs": ["hedging-chalk-alkaline-soil-thanet-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-08T07:00:00Z",
+  "lastAuditAt": "2026-11-09T07:30:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "5 needs-review items (down from 10). Persistent: NordSys/Richard Lim in privacy.html; BreadcrumbList in received-section-154 JSON-LD; formal-hedges-cliftonville missing story-led opening; staged-hedge-reduction missing WCA 1981 citation by name; 13 content pages missing og:title/og:description. RESOLVED: 5 timing articles now carry WCA 1981 ref. New article boundary-hedge-ownership-margate.html (8 Nov) passes all checks. No auto-fixes applied today."
+  "issueCount": 6,
+  "note": "6 needs-review items. Auto-fixed: sitemap lastmod for / (10-08→10-17) and /how-to/ (10-25→11-09). Persistent: NordSys/Richard Lim in privacy.html; BreadcrumbList JSON-LD in received-section-154; formal-hedges-cliftonville missing story-led opening; staged-hedge-reduction missing WCA 1981 citation + generic opener; 17 pages missing og:title (up from 13, tree service pages newly counted). NEW: holiday-let-hedge-maintenance discusses timing without WCA 1981 citation. New article hedging-chalk-alkaline-soil passes all checks."
 }
