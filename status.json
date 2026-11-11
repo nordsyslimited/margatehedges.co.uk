@@ -4,8 +4,8 @@
   "articlesShipped": 1,
   "slugs": ["hedging-chalk-alkaline-soil-thanet-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-10T08:29:00Z",
+  "lastAuditAt": "2026-11-11T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "note": "6 needs-review items (all persisting, nothing new). No auto-fixes needed this run. Items: BreadcrumbList JSON-LD in received-section-154; NordSys/Richard Lim in privacy.html; formal-hedges-cliftonville missing story-led + WCA 1981; staged-hedge-reduction missing story-led + WCA 1981; holiday-let missing WCA 1981 body text; 17 pages missing og:title. New article hedge-windbreak-establishment-margate passes all checks."
+  "issueCount": 7,
+  "note": "7 needs-review items (6 persisting, 1 new). Auto-fixed: sitemap missing services/hedge-planting.html and services/hedge-removal.html. New: 3 duplicate cards in how-to/index.html (nesting-season, conservation-areas, salt-tolerant each linked 3x). Persisting: BreadcrumbList JSON-LD in received-section-154; NordSys/Richard Lim in privacy.html; formal-hedges missing story-led + WCA 1981; staged-hedge-reduction missing story-led + WCA 1981; holiday-let missing WCA 1981 body; 19 pages missing og:title (non-how-to)."
 }
