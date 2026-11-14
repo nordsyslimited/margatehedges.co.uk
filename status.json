@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-09",
+  "lastRun": "2026-11-14",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugs": ["hedging-chalk-alkaline-soil-thanet-margate"],
+  "slugs": ["hedge-semi-ripe-cuttings-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-13T00:00:00Z",
+  "lastAuditAt": "2026-11-14T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 6,
-  "note": "6 needs-review items (all persisting, 0 auto-fixes). Persisting: triple link to nesting-season in index; BreadcrumbList JSON-LD in received-section-154; NordSys/Richard Lim in privacy.html; 3 articles missing WCA 1981 (formal-hedges, staged-hedge-reduction, holiday-let); 13 articles with non-story-led openings; 16 non-how-to pages missing og:title. New article (leycesteria-formosa, 13 Nov) passes story-led check; minor style note on first body paragraph."
+  "note": "6 needs-review items (0 auto-fixes). Persisting: triple link to nesting-season in index; BreadcrumbList JSON-LD in received-section-154; NordSys/Richard Lim in privacy.html; 3 articles missing WCA 1981 (formal-hedges, staged-hedge-reduction, holiday-let); 15 articles with generic openers (up from 13: margate-conservation-areas and hedgerow-management-regulations-2024 newly identified); 16 non-how-to pages missing og:title. New article (hedge-semi-ripe-cuttings, 14 Nov) passes all checks: story-led (Westbrook griselinia gap), WCA 1981 reference present, flat Article JSON-LD."
 }
