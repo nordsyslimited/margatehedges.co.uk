@@ -4,8 +4,8 @@
   "articlesShipped": 1,
   "slugs": ["vine-weevil-hedging-plants-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-16T00:00:00Z",
+  "lastAuditAt": "2026-11-17T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "note": "7 needs-review items (0 auto-fixes). HIGH PRIORITY: jet/add-ga4-tag branch still open on GitHub (GA4 code not merged but branch should be deleted). Persisting (6): triple link to hedge-nesting-season in index; BreadcrumbList JSON-LD in received-section-154; NordSys/Richard Lim in privacy.html; og:title missing on 10 service/areas pages; ~15 legacy articles with generic openers; TEMPLATES/how-to.md §2 stale Richard Lim author instruction. Resolved since last audit: WCA 1981 refs now present in formal-hedges, staged-hedge-reduction, holiday-let. New article (hedge-mulching, 16 Nov) passes all checks."
+  "note": "7 needs-review items (0 auto-fixes). HIGH PRIORITY: jet/add-ga4-tag branch still on origin with GA4 commit (G-53100B6S34) — not merged but must be deleted. Persisting (6): og:title missing on 17 non-how-to pages (count corrected from 10); BreadcrumbList JSON-LD in received-section-154; NordSys/Richard Lim in privacy.html; triple link to hedge-nesting-season in index (design pattern); TEMPLATES/how-to.md §2 stale Richard Lim author instruction; ~15 legacy articles with generic openers. New article (chaenomeles, 17 Nov) passes all checks."
 }
