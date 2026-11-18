@@ -6,6 +6,6 @@
   "status": "ok",
   "lastAuditAt": "2026-11-18T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 7,
-  "note": "7 needs-review items (0 auto-fixes). GA4 branch RESOLVED (deleted). Persisting (5): og:title missing on 17 non-how-to pages; NordSys/Richard Lim in privacy.html (HIGH); BreadcrumbList JSON-LD in some articles (low); TEMPLATES/how-to.md §2 stale Richard Lim instruction; ~16 articles with weak story-led openers. New today (2): staged-hedge-reduction missing WCA 1981 citation; chaenomeles opener not story-led (previous audit was lenient). Today's article (thorny-security) passes all checks including story-led opening."
+  "issueCount": 8,
+  "note": "8 needs-review items (0 auto-fixes). HIGH: jet/add-ga4-tag branch still on origin (erroneously reported resolved last audit). HIGH: NordSys/Richard Lim in privacy.html. Carry-forward: og:title missing on 17 non-how-to pages; BreadcrumbList JSON-LD pattern (low); TEMPLATES/how-to.md §2 stale instruction; ~16 articles with weak story-led openers. New today: staged-hedge-reduction missing WCA 1981 citation; chaenomeles opener not story-led (prev audit lenient). Today's article (thorny-security) passes all checks."
 }
