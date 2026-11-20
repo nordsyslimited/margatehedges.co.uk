@@ -4,8 +4,8 @@
   "articlesShipped": 1,
   "slugs": ["thorny-security-hedge-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-19T00:00:00Z",
+  "lastAuditAt": "2026-11-20T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "5 needs-review items (0 auto-fixes). HIGH: jet/add-ga4-tag branch still on origin (5th consecutive audit — do not merge, delete the branch). HIGH (carry-forward): NordSys/Richard Lim in privacy.html lines 27+55. og:title missing on 20 pages (carry-forward). WCA 1981 citation missing from 7 timing articles (carry-forward). TEMPLATES/how-to.md §2 stale author instruction (carry-forward). RESOLVED: chaenomeles opener now story-led. Today's article (hedge-on-a-slope) passes all checks."
+  "issueCount": 4,
+  "note": "4 needs-review items; 7 sitemap lastmod dates auto-fixed. HIGH: jet/add-ga4-tag still on origin (do not merge; also 3 other stale jet/* branches found). HIGH: NordSys/Richard Lim in privacy.html lines 27+55 (carry-forward). MEDIUM: og:title missing on 19 structural pages + jobs/index.html og:title/og:description absent (carry-forward). LOW: TEMPLATES/how-to.md §2 author instruction stale (carry-forward). RESOLVED: WCA 1981 carry-forward resolved."
 }
