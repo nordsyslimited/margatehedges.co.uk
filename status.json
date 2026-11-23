@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-22",
+  "lastRun": "2026-11-23",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugs": ["hedge-stump-removal-replanting-margate"],
+  "slugs": ["container-grown-vs-bare-root-hedge-plants-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-22T07:00:00Z",
+  "lastAuditAt": "2026-11-23T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "4 needs-review items (all carry-forwards); 0 auto-fixes. HIGH: jet/add-ga4-tag still on origin (do not merge; also 3 other stale jet/* branches). HIGH: NordSys/Richard Lim in privacy.html lines 27+55 (carry-forward x7). MEDIUM: og:title missing on 20 structural pages (carry-forward). LOW: TEMPLATES/how-to.md §2 author instruction stale (carry-forward). New article hedge-stump-removal-replanting-margate.html passes all checks."
+  "issueCount": 7,
+  "note": "7 needs-review items; 0 auto-fixes. HIGH (carry-forward): 4 stale jet/* branches still on origin (jet/add-ga4-tag has GA4 snippet — do not merge; delete all 4). MEDIUM (carry-forward): og:title missing on 19 structural pages. LOW (carry-forward): NordSys/Richard Lim in privacy.html lines 27+55. LOW (carry-forward): TEMPLATES/how-to.md §2 author instruction stale. MEDIUM (carry-forward): 8 timing articles missing WCA 1981 reference. NEW MEDIUM: HTML entities (&amp;) inside JSON-LD in 12 articles. NEW LOW: structural-angle drift in hedge-stump-removal-replanting-margate.html (non-story-led opener)."
 }
