@@ -1,6 +1,11 @@
 {
-  "lastRun": "2026-11-24",
-  "lastRunType": "nightly-content",
-  "articlesShipped": ["how-to/hedge-surface-water-drainage-margate.html"],
-  "status": "ok"
+  "lastRun": "2026-11-25",
+  "runType": "nightly-content",
+  "articlesShipped": 1,
+  "slugs": ["hedge-propagation-layering-margate"],
+  "status": "ok",
+  "lastAuditAt": "2026-11-25T03:00:00Z",
+  "auditStatus": "carry-forward",
+  "issueCount": 4,
+  "note": "4 carry-forward items from 2026-11-24 audit. MEDIUM: og:title missing on 16 structural pages. MEDIUM: 8 timing articles missing WCA 1981 reference. LOW: NordSys/Richard Lim in privacy.html lines 27+55. LOW: TEMPLATES/how-to.md §2 author instruction stale."
 }
