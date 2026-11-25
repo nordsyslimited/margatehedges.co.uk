@@ -4,8 +4,8 @@
   "articlesShipped": 1,
   "slugs": ["container-grown-vs-bare-root-hedge-plants-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-24T07:00:00Z",
+  "lastAuditAt": "2026-11-25T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "4 needs-review items; 1 auto-fix (13 articles: HTML entities in JSON-LD). RESOLVED: stale jet/* branches cleared; hedge-stump-removal drift fixed. MEDIUM (carry-forward): og:title missing on 16 structural pages. MEDIUM (carry-forward): 8 timing articles missing WCA 1981 reference. LOW (carry-forward): NordSys/Richard Lim in privacy.html lines 27+55. LOW (carry-forward): TEMPLATES/how-to.md §2 author instruction stale."
+  "issueCount": 2,
+  "note": "2 needs-review items; 2 auto-fixes (sitemap: 117 lastmod dates updated; cotoneaster source note: removed production-process wording). RESOLVED: WCA 1981 carry-forward cleared (all timing articles now compliant). MEDIUM (carry-forward): og:title missing on 19 structural pages (was 16). LOW (carry-forward): NordSys/Richard Lim in privacy.html lines 27+55."
 }
