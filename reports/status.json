@@ -1,8 +1,8 @@
 {
-  "lastRun": "2026-11-26",
+  "lastRun": "2026-11-28",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugs": ["hedge-coppicing-margate"],
+  "slugs": ["bat-roosts-hedge-margate"],
   "status": "ok",
   "lastAuditAt": "2026-11-25T03:00:00Z",
   "auditStatus": "carry-forward",
