@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-23",
+  "lastRun": "2026-11-28",
   "runType": "nightly-content",
   "articlesShipped": 1,
-  "slugs": ["container-grown-vs-bare-root-hedge-plants-margate"],
+  "slugs": ["bat-roosts-hedge-margate"],
   "status": "ok",
-  "lastAuditAt": "2026-11-27T08:31:16Z",
+  "lastAuditAt": "2026-11-28T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "5 needs-review items; 0 auto-fixes. MEDIUM (carry-forward): og:title missing on 20 structural pages. LOW (carry-forward): NordSys/Richard Lim in privacy.html lines 27+55. LOW (carry-forward): orphan redirect stub hedge-stump-removal-replanting-margate.html. LOW (carry-forward + 1 new): 5 articles missing explicit WCA 1981 act name. LOW (carry-forward): TEMPLATES/how-to.md §2 author instruction contradicts AGENTS.md. All auto-fix checks clear."
+  "note": "1 auto-fix: sitemap.xml how-to/ lastmod corrected 2026-11-26→2026-11-28. 5 needs-review (all carry-forwards). MEDIUM: og:title missing on 18 structural pages. LOW: 9 articles missing explicit WCA 1981 name cite (3 touch timing). LOW: NordSys/Richard Lim in privacy.html lines 27+55. LOW: hedge-stump-removal noindex redirect stub on disk (correct, no action). LOW: TEMPLATES/how-to.md §2 author instruction stale vs AGENTS.md."
 }
